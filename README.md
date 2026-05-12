@@ -16,3 +16,6 @@ A python script used to generate the world heat map
 
 ## extract.py
 A python script I used to extract the data from the parquet file using countries.csv
+
+## ./outputs
+contains txt files of each country/organization structure by ccltd (e.g. dk.txt --> denmark)
