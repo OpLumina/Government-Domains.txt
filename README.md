@@ -5,7 +5,7 @@ A list of government, international, and other government-adjacent domains seper
 Data is from the Amazing People at thc.org (The Hacker's Choice), and can be found at https://ip.thc.org/docs/bulk-data-access
 
 ## countries.csv:
-A list of the search terms and relevant data I used to scrape the parquet file
+A list of the root domains and relevant data I used to scrape the parquet file
 
 ## heatmap.py:
 A python script used to generate the world heat map
