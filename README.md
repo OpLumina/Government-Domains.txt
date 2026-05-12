@@ -6,7 +6,7 @@ Last Update: 5/12/2026
 
 
 ## Special Thanks:
-Data is from the Amazing People at thc.org (The Hacker's Choice), and can be found at https://ip.thc.org/docs/bulk-data-access
+Subdomain Data in `./outputs` is from the Amazing People at thc.org (The Hacker's Choice), and can be found at https://ip.thc.org/docs/bulk-data-access
 
 ## countries.csv:
 A list of the root domains and relevant data I used to scrape the parquet file
