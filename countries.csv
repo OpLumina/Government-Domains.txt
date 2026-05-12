@@ -1,0 +1,335 @@
+code,country name,cctld,government domain
+ad,andorra,.ad,govern.ad
+ae,united arab emirates,.ae,gov.ae
+af,afghanistan,.af,gov.af
+ag,antigua and barbuda,.ag,gov.ag
+ai,anguilla,.ai,gov.ai
+al,albania,.al,gov.al
+am,armenia,.am,gov.am
+ao,angola,.ao,gov.ao
+ar,argentina,.ar,gob.ar
+as,american samoa,.as,gov.as
+at,austria,.at,gv.at
+au,australia,.au,gov.au
+aw,aruba,.aw,gov.aw
+az,azerbaijan,.az,gov.az
+ba,bosnia and herzegovina,.ba,gov.ba
+bb,barbados,.bb,gov.bb
+bd,bangladesh,.bd,gov.bd
+bd,bangladesh,.bd,mil.bd
+be,belgium,.be,fed.be
+bf,burkina faso,.bf,gov.bf
+bg,bulgaria,.bg,government.bg
+bh,bahrain,.bh,gov.bh
+bi,burundi,.bi,gov.bi
+bj,benin,.bj,gouv.bj
+bm,bermuda,.bm,gov.bm
+bn,brunei darussalam,.bn,gov.bn
+bo,bolivia,.bo,gob.bo
+br,brazil,.br,gov.br
+br,brazil,.br,leg.br
+br,brazil,.br,jus.br
+br,brazil,.br,mil.br
+br,brazil,.br,def.br
+bs,bahamas,.bs,gov.bs
+bt,bhutan,.bt,gov.bt
+bw,botswana,.bw,gov.bw
+by,belarus,.by,gov.by
+bz,belize,.bz,gov.bz
+ca,canada,.ca,gc.ca
+ca,ontario,.ca,ontario.ca
+ca,quebec,.ca,quebec.ca
+ca,british columbia,.ca,gov.bc.ca
+ca,alberta,.ca,alberta.ca
+ca,manitoba,.ca,manitoba.ca
+ca,saskatchewan,.ca,saskatchewan.ca
+ca,nova scotia,.ca,novascotia.ca
+ca,new brunswick,.ca,gnb.ca
+ca,newfoundland and labrador,.ca,gov.nl.ca
+ca,prince edward island,.ca,princeedwardisland.ca
+ca,northwest territories,.ca,gov.nt.ca
+ca,yukon,.ca,yukon.ca
+ca,nunavut,.ca,gov.nu.ca
+cd,congo democratic republic,.cd,gouv.cd
+cf,central african republic,.cf,gouv.cf
+cg,congo,.cg,gouv.cg
+ch,switzerland,.ch,admin.ch
+ch,switzerland,.ch,ch.ch
+ci,cote d'ivoire,.ci,gouv.ci
+ck,cook islands,.ck,gov.ck
+cl,chile,.cl,gob.cl
+cm,cameroon,.cm,gov.cm
+cn,china,.cn,gov.cn
+co,colombia,.co,gov.co
+cr,costa rica,.cr,go.cr
+cu,cuba,.cu,gob.cu
+cv,cabo verde,.cv,gov.cv
+cw,curacao,.cw,gobiernu.cw
+cy,cyprus,.cy,gov.cy
+cz,czechia,.cz,gov.cz
+de,germany,.de,bund.de
+de,bavaria,.de,bayern.de
+de,berlin,.de,berlin.de
+de,baden-wurttemberg,.de,baden-wuerttemberg.de
+de,brandenburg,.de,brandenburg.de
+de,bremen,.de,bremen.de
+de,hamburg,.de,hamburg.de
+de,hesse,.de,hessen.de
+de,mecklenburg-vorpommern,.de,regierung-mv.de
+de,lower saxony,.de,niedersachsen.de
+de,north rhine-westphalia,.de,nrw.de
+de,rhineland-palatinate,.de,rlp.de
+de,saarland,.de,saarland.de
+de,saxony,.de,sachsen.de
+de,saxony-anhalt,.de,sachsen-anhalt.de
+de,schleswig-holstein,.de,schleswig-holstein.de
+de,thuringia,.de,thueringen.de
+dj,djibouti,.dj,gouv.dj
+dm,dominica,.dm,gov.dm
+do,dominican republic,.do,gob.do
+dz,algeria,.dz,gov.dz
+ec,ecuador,.ec,gob.ec
+ee,estonia,.ee,gov.ee
+eg,egypt,.eg,gov.eg
+er,eritrea,.er,gov.er
+es,spain,.es,gob.es
+et,ethiopia,.et,gov.et
+eu,european union,.eu,europa.eu
+fj,fiji,.fj,gov.fj
+fk,falkland islands,.fk,gov.fk
+fm,micronesia,.fm,gov.fm
+fo,faroe islands,.fo,government.fo
+fr,france,.fr,gouv.fr
+ga,gabon,.ga,gouv.ga
+gb,united kingdom,.gb,gov.uk
+gb,united kingdom,.gb,nhs.uk
+gb,united kingdom,.gb,mod.uk
+gb,united kingdom,.gb,parliament.uk
+gb,united kingdom,.gb,police.uk
+gb,united kingdom,.gb,judiciary.uk
+gd,grenada,.gd,gov.gd
+ge,georgia,.ge,gov.ge
+gf,french guiana,.gf,ctguyane.fr
+gg,guernsey,.gg,gov.gg
+gh,ghana,.gh,gov.gh
+gi,gibraltar,.gi,gov.gi
+gl,greenland,.gl,nanoq.gl
+gm,gambia,.gm,gov.gm
+gn,guinea,.gn,gov.gn
+gp,guadeloupe,.gp,region-guadeloupe.fr
+gq,equatorial guinea,.gq,gob.gq
+gr,greece,.gr,gov.gr
+gt,guatemala,.gt,gob.gt
+gu,guam,.gu,gov.gu
+gy,guyana,.gy,gov.gy
+hk,hong kong,.hk,gov.hk
+hn,honduras,.hn,gob.hn
+hr,croatia,.hr,gov.hr
+ht,haiti,.ht,gouv.ht
+hu,hungary,.hu,gov.hu
+id,indonesia,.id,go.id
+ie,ireland,.ie,gov.ie
+il,israel,.il,gov.il
+im,isle of man,.im,gov.im
+in,india,.in,gov.in
+in,india,.in,nic.in
+in,india,.in,mil.in
+iq,iraq,.iq,gov.iq
+ir,iran,.ir,gov.ir
+it,italy,.it,governo.it
+je,jersey,.je,gov.je
+jm,jamaica,.jm,gov.jm
+jo,jordan,.jo,gov.jo
+jp,japan,.jp,go.jp
+jp,japan,.jp,lg.jp
+ke,kenya,.ke,go.ke
+kg,kyrgyzstan,.kg,gov.kg
+kh,cambodia,.kh,gov.kh
+ki,kiribati,.ki,gov.ki
+km,comoros,.km,gouv.km
+kn,saint kitts and nevis,.kn,gov.kn
+kp,north korea,.kp,gov.kp
+kr,south korea,.kr,go.kr
+kw,kuwait,.kw,gov.kw
+ky,cayman islands,.ky,gov.ky
+kz,kazakhstan,.kz,gov.kz
+la,laos,.la,gov.la
+lb,lebanon,.lb,gov.lb
+lc,saint lucia,.lc,govt.lc
+lk,sri lanka,.lk,gov.lk
+lr,liberia,.lr,gov.lr
+ls,lesotho,.ls,gov.ls
+lt,lithuania,.lt,lrv.lt
+lu,luxembourg,.lu,public.lu
+lv,latvia,.lv,gov.lv
+ly,libya,.ly,gov.ly
+ma,morocco,.ma,gov.ma
+mc,monaco,.mc,gouv.mc
+md,moldova,.md,gov.md
+me,montenegro,.me,gov.me
+mf,saint martin french part,.mf,com-saint-martin.fr
+mg,madagascar,.mg,gov.mg
+mh,marshall islands,.mh,gov.mh
+mk,north macedonia,.mk,gov.mk
+ml,mali,.ml,gouv.ml
+mm,myanmar,.mm,gov.mm
+mn,mongolia,.mn,gov.mn
+mo,macao,.mo,gov.mo
+mp,northern mariana islands,.mp,gov.mp
+mq,martinique,.mq,collectivitedemartinique.fr
+mr,mauritania,.mr,gov.mr
+ms,montserrat,.ms,gov.ms
+mt,malta,.mt,gov.mt
+mu,mauritius,.mu,govmu.org
+mv,maldives,.mv,gov.mv
+mw,malawi,.mw,gov.mw
+mx,mexico,.mx,gob.mx
+my,malaysia,.my,gov.my
+mz,mozambique,.mz,gov.mz
+na,namibia,.na,gov.na
+nc,new caledonia,.nc,gouv.nc
+ne,niger,.ne,gouv.ne
+nf,norfolk island,.nf,gov.nf
+ng,nigeria,.ng,gov.ng
+ni,nicaragua,.ni,gob.ni
+nl,netherlands,.nl,overheid.nl
+nl,netherlands,.nl,tweedekamer.nl
+nl,netherlands,.nl,rijksoverheid.nl
+no,norway,.no,domstol.no
+no,norway,.no,politiet.no
+no,norway,.no,nav.no
+no,norway,.no,regjeringen.no
+no,norway,.no,skatteetaten.no
+no,norway,.no,helse.no
+no,norway,.no,helsedirektoratet.no
+no,norway,.no,riksarkivet.no
+no,norway,.no,lovdata.no
+no,norway,.no,ud.no
+no,norway,.no,forsvar.no
+no,norway,.no,stortinget.no
+np,nepal,.np,gov.np
+nr,nauru,.nr,gov.nr
+nu,niue,.nu,gov.nu
+nz,new zealand,.nz,govt.nz
+nz,new zealand,.nz,parliament.nz
+nz,new zealand,.nz,mil.nz
+om,oman,.om,gov.om
+pa,panama,.pa,gob.pa
+pe,peru,.pe,gob.pe
+pf,french polynesia,.pf,gov.pf
+pg,papua new guinea,.pg,gov.pg
+ph,philippines,.ph,gov.ph
+pk,pakistan,.pk,gov.pk
+pl,poland,.pl,gov.pl
+pm,saint pierre and miquelon,.pm,collectivite-saint-pierre-et-miquelon.fr
+pn,pitcairn,.pn,gov.pn
+pr,puerto rico,.pr,pr.gov
+ps,palestine,.ps,gov.ps
+pt,portugal,.pt,gov.pt
+pw,palau,.pw,gov.pw
+py,paraguay,.py,gov.py
+qa,qatar,.qa,gov.qa
+re,reunion,.re,region-reunion.fr
+ro,romania,.ro,gov.ro
+rs,serbia,.rs,gov.rs
+ru,russia,.ru,gov.ru
+rw,rwanda,.rw,gov.rw
+sa,saudi arabia,.sa,gov.sa
+sb,solomon islands,.sb,gov.sb
+sc,seychelles,.sc,gov.sc
+sd,sudan,.sd,gov.sd
+se,sweden,.se,regeringen.se
+se,sweden,.se,riksdagen.se
+sg,singapore,.sg,gov.sg
+sh,saint helena,.sh,gov.sh
+si,slovenia,.si,gov.si
+sj,svalbard and jan mayen,.sj,sysselmannen.no
+sk,slovakia,.sk,gov.sk
+sl,sierra leone,.sl,gov.sl
+sm,san marino,.sm,gov.sm
+sn,senegal,.sn,gouv.sn
+so,somalia,.so,gov.so
+sr,suriname,.sr,gov.sr
+ss,south sudan,.ss,gov.ss
+st,sao tome and principe,.st,gov.st
+sv,el salvador,.sv,gob.sv
+sx,sint maarten,.sx,gov.sx
+sy,syria,.sy,gov.sy
+sz,eswatini,.sz,gov.sz
+tc,turks and caicos islands,.tc,gov.tc
+td,chad,.td,gouv.td
+tf,french southern territories,.tf,taaf.fr
+tg,togo,.tg,gouv.tg
+th,thailand,.th,go.th
+tj,tajikistan,.tj,gov.tj
+tl,timor-leste,.tl,gov.tl
+tm,turkmenistan,.tm,gov.tm
+tn,tunisia,.tn,gov.tn
+to,tonga,.to,gov.to
+tr,turkiye,.tr,gov.tr
+tr,turkiye,.tr,tsk.tr
+tr,turkiye,.tr,bel.tr
+tr,turkiye,.tr,pol.tr
+tt,trinidad and tobago,.tt,gov.tt
+tt,trinidad and tobago,.tt,mil.tt
+tv,tuvalu,.tv,gov.tv
+tw,taiwan,.tw,gov.tw
+tz,tanzania,.tz,go.tz
+ua,ukraine,.ua,gov.ua
+ug,uganda,.ug,go.ug
+un,united nations,.org,un.org
+un,world health organization,.org,who.int
+un,international labour organization,.org,ilo.org
+un,food and agriculture organization,.org,fao.org
+un,unesco,.org,unesco.org
+un,unicef,.org,unicef.org
+un,un refugee agency,.org,unhcr.org
+un,un environment programme,.org,unep.org
+un,un development programme,.org,undp.org
+un,world food programme,.org,wfp.org
+un,world meteorological organization,.org,wmo.int
+un,international maritime organization,.org,imo.org
+un,intl civil aviation organization,.org,icao.int
+un,universal postal union,.org,upu.int
+un,world intellectual property organization,.org,wipo.int
+un,intl atomic energy agency,.org,iaea.org
+un,intl criminal court,.org,icc-cpi.int
+un,intl court of justice,.org,icj-cij.org
+un,opcw,.org,opcw.org
+un,intl telecommunication union,.org,itu.int
+nato,north atlantic treaty organization,.org,nato.int
+interpol,interpol,.org,interpol.int
+wto,world trade organization,.org,wto.org
+worldbank,world bank,.org,worldbank.org
+imf,international monetary fund,.org,imf.org
+oecd,oecd,.org,oecd.org
+coe,council of europe,.org,coe.int
+osce,osce,.org,osce.org
+au-org,african union,.org,au.int
+oas,organization of american states,.org,oas.org
+asean,asean,.org,asean.org
+gcc,gulf cooperation council,.org,gcc-sg.org
+caricom,caribbean community,.org,caricom.org
+commonwealth,commonwealth of nations,.org,thecommonwealth.org
+eu,european union,.eu,europa.eu
+us,united states of america,.us,gov
+us,united states of america,.us,mil
+us,united states of america,.us,ic.gov
+uy,uruguay,.uy,gub.uy
+uz,uzbekistan,.uz,gov.uz
+va,vatican city,.va,vaticanstate.va
+va,vatican city,.va,vatican.va
+vc,saint vincent and the grenadines,.vc,gov.vc
+ve,venezuela,.ve,gob.ve
+vg,british virgin islands,.vg,gov.vg
+vi,us virgin islands,.vi,gov.vi
+vn,vietnam,.vn,gov.vn
+vu,vanuatu,.vu,gov.vu
+wf,wallis and futuna,.wf,wallis-et-futuna.fr
+ws,samoa,.ws,gov.ws
+xk,kosovo,.xk,rks-gov.net
+ye,yemen,.ye,gov.ye
+yt,mayotte,.yt,mayotte.gouv.fr
+za,south africa,.za,gov.za
+zm,zambia,.zm,gov.zm
+zw,zimbabwe,.zw,gov.zw
