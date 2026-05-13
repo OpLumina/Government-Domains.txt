@@ -10,7 +10,7 @@ Subdomain Data in `./outputs` is from the Amazing People at thc.org (The Hacker'
 
 Chile root domains are from @pdelteil: https://github.com/pdelteil/
 
-German domains: are from @robbi5 https://github.com/robbi5/german-gov-domains/
+German root domains: are from @robbi5 https://github.com/robbi5/german-gov-domains/
 
 ## ./outputs (WIP)
 contains txt files of each country/organization structure by ccltd (e.g. dk.txt --> denmark)
