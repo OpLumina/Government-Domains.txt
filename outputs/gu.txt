@@ -1,6 +1,0 @@
-gadao.gov.gu
-ns.gov.gu
-mx1.mail.gov.gu
-mx2.mail.gov.gu
-guam.justice.gov.gu
-mail.justice.gov.gu
