@@ -7,6 +7,7 @@ Last Update: 5/12/2026
 
 ## Data/Attribution (WIP):
 Subdomain Data in `./outputs` is from the Amazing People at thc.org (The Hacker's Choice), and can be found at https://ip.thc.org/docs/bulk-data-access
+Chile root domains are from @pdelteil: https://github.com/pdelteil/
 
 ## ./outputs (WIP)
 contains txt files of each country/organization structure by ccltd (e.g. dk.txt --> denmark)
