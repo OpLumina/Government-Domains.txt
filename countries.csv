@@ -1,117 +1,1494 @@
 code,country name,cctld,government domain
+ad,andorra,.ad,parlament.ad
+ad,andorra,.ad,justicia.ad
+ad,andorra,.ad,eleccions.ad
+ad,andorra,.ad,estadistica.ad
+ad,andorra,.ad,paee.ad
+ad,andorra,.ad,tribunalconstitucional.ad
 ad,andorra,.ad,govern.ad
 ae,united arab emirates,.ae,gov.ae
+ae,united arab emirates,.ae,mil.ae
+ae,united arab emirates,.ae,امارات.
+ae,united arab emirates,.ae,uae.ae
+ae,united arab emirates,.ae,alc.ae
+ae,united arab emirates,.ae,adairports.ae
+ae,united arab emirates,.ae,addc.ae
+ae,united arab emirates,.ae,abudhabichamber.ae
+ae,united arab emirates,.ae,etihadwe.ae
+ae,united arab emirates,.ae,mohap.ae
+ae,united arab emirates,.ae,adjd.ae
+ae,united arab emirates,.ae,adp.ae
+ae,united arab emirates,.ae,dha.ae
+ae,united arab emirates,.ae,dewa.ae
+ae,united arab emirates,.ae,rta.ae
+ae,united arab emirates,.ae,shj.ae
+ae,united arab emirates,.ae,rak.ae
+ae,united arab emirates,.ae,ajman.ae
+ae,united arab emirates,.ae,fujairah.ae
+ae,united arab emirates,.ae,uaeu.ac.ae
+ae,united arab emirates,.ae,ku.ac.ae
+ae,united arab emirates,.ae,dm.ae
+ae,united arab emirates,.ae,adpolice.ae
+ae,united arab emirates,.ae,adnoc.ae
+ae,united arab emirates,.ae,dubaipolice.ae
+ae,united arab emirates,.ae,moei.ae
+ae,united arab emirates,.ae,moe.ae
+ae,united arab emirates,.ae,mof.ae
+ae,united arab emirates,.ae,mofa.ae
+ae,united arab emirates,.ae,mohre.ae
+ae,united arab emirates,.ae,moj.ae
+ae,united arab emirates,.ae,moca.ae
+ae,united arab emirates,.ae,moccae.ae
+ae,united arab emirates,.ae,mod.ae
+ae,united arab emirates,.ae,mopi.ae
+ae,united arab emirates,.ae,centralbank.ae
+ae,united arab emirates,.ae,fca.ae
+ae,united arab emirates,.ae,icp.ae
+ae,united arab emirates,.ae,adeda.ae
+ae,united arab emirates,.ae,adaa.ae
+ae,united arab emirates,.ae,adssc.ae
+ae,united arab emirates,.ae,adpension.ae
+ae,united arab emirates,.ae,adfd.ae
+ae,united arab emirates,.ae,adnec.ae
+ae,united arab emirates,.ae,twofour54.ae
+ae,united arab emirates,.ae,masdar.ae
+ae,united arab emirates,.ae,seha.ae
+ae,united arab emirates,.ae,dcc.ae
+ae,united arab emirates,.ae,dubaiholding.ae
+ae,united arab emirates,.ae,dubaiairports.ae
+ae,united arab emirates,.ae,dubaicustoms.ae
+ae,united arab emirates,.ae,dubaitourism.ae
+ae,united arab emirates,.ae,dubaiculture.ae
+ae,united arab emirates,.ae,dubaisportscouncil.ae
+ae,united arab emirates,.ae,rakpension.ae
+ae,united arab emirates,.ae,fujairahmunicipality.ae
+ae,united arab emirates,.ae,shjmun.ae
+ae,united arab emirates,.ae,muba.ae
+ae,united arab emirates,.ae,ecouncil.ae
 af,afghanistan,.af,gov.af
+af,afghanistan,.af,mil.af
+af,afghanistan,.af,edu.af
 ag,antigua and barbuda,.ag,gov.ag
+ai,anguilla,.ai,gov.com.ai
+ai,anguilla,.ai,gov.net.ai
+ai,anguilla,.ai,gov.off.ai
+ai,anguilla,.ai,gov.org.ai
 ai,anguilla,.ai,gov.ai
 al,albania,.al,gov.al
+al,albania,.al,mil.al
+al,albania,.al,e-albania.al
+al,albania,.al,akep.al
+al,albania,.al,kryeministria.al
+al,albania,.al,kuvend.al
+al,albania,.al,parlament.al
+al,albania,.al,president.al
+al,albania,.al,instat.gov.al
+al,albania,.al,ashk.gov.al
+al,albania,.al,dpshtrr.gov.al
+al,albania,.al,dpburgjeve.gov.al
+al,albania,.al,dogana.gov.al
+al,albania,.al,tatime.gov.al
+al,albania,.al,shish.gov.al
+al,albania,.al,asp.gov.al
+al,albania,.al,isuv.gov.al
+al,albania,.al,qbz.gov.al
+al,albania,.al,kpp.al
+al,albania,.al,kpk.al
+al,albania,.al,kpa.al
+al,albania,.al,koked.al
+al,albania,.al,kqz.al
+al,albania,.al,amf.gov.al
+al,albania,.al,ama.gov.al
+al,albania,.al,akshq.gov.al
+al,albania,.al,akbn.gov.al
+al,albania,.al,akm.gov.al
+al,albania,.al,akpt.gov.al
+al,albania,.al,akt.gov.al
+al,albania,.al,akcesk.gov.al
+al,albania,.al,ascs.gov.al
+al,albania,.al,adisa.gov.al
+al,albania,.al,shba.gov.al
+al,albania,.al,idp.al
+al,albania,.al,kmd.al
+al,albania,.al,klsh.org.al
+al,albania,.al,prokuroria.al
+al,albania,.al,spak.al
+al,albania,.al,gjykataelarte.al
+al,albania,.al,gjykata-kushtetuese.al
 am,armenia,.am,gov.am
+am,armenia,.am,mil.am
+am,armenia,.am,primeminister.am
+am,armenia,.am,president.am
+am,armenia,.am,mfa.am
+am,armenia,.am,e-gov.am
+am,armenia,.am,e-payments.am
+am,armenia,.am,e-cadastre.am
+am,armenia,.am,e-draft.am
+am,armenia,.am,concourt.am
+am,armenia,.am,police.am
+am,armenia,.am,nss.am
+am,armenia,.am,sc.am
+am,armenia,.am,petekamutner.am
+am,armenia,.am,minfin.am
+am,armenia,.am,minenergy.am
+am,armenia,.am,escs.am
+am,armenia,.am,moh.am
+am,armenia,.am,mineconomy.am
+am,armenia,.am,mtad.am
+am,armenia,.am,justice.am
+am,armenia,.am,env.am
+am,armenia,.am,mlsa.am
+am,armenia,.am,hrazdan.am
+am,armenia,.am,gyumricity.am
+am,armenia,.am,vanadzor.am
 ao,angola,.ao,gov.ao
+ao,angola,.ao,gv.ao
+ao,angola,.ao,mil.ao
+ao,angola,.ao,ed.ao
+ao,angola,.ao,pb.ao
+ao,angola,.ao,og.ao
+ao,angola,.ao,parlamento.ao
+ao,angola,.ao,governo.ao
+ao,angola,.ao,portal.ao
+ao,angola,.ao,presidencia.ao
+ao,angola,.ao,mfa.ao
+ao,angola,.ao,minfin.ao
+ao,angola,.ao,bna.ao
+ao,angola,.ao,minmpme.ao
+ao,angola,.ao,sonangol.ao
+ao,angola,.ao,anpg.ao
+ao,angola,.ao,ine.ao
+ao,angola,.ao,isutic.ao
+ao,angola,.ao,it.ao
+ar,argentina,.ar,ypf.com
+ar,argentina,.ar,aerolineas.com.ar
+ar,argentina,.ar,correoargentino.com.ar
+ar,argentina,.ar,na-sa.com.ar
+ar,argentina,.ar,arsat.com.ar
+ar,argentina,.ar,aysa.com.ar
 ar,argentina,.ar,gob.ar
+ar,argentina,.ar,gov.ar
+ar,argentina,.ar,mil.ar
+ar,argentina,.ar,argentina.ar
+ar,argentina,.ar,educ.ar
+ar,argentina,.ar,nic.ar
+ar,argentina,.ar,afip.ar
+ar,argentina,.ar,anses.ar
+ar,argentina,.ar,pami.ar
+ar,argentina,.ar,bna.ar
+ar,argentina,.ar,bcra.ar
+ar,argentina,.ar,gba.ar
+ar,argentina,.ar,caba.ar
+ar,argentina,.ar,mendoza.ar
+ar,argentina,.ar,santafe.ar
+ar,argentina,.ar,cordoba.ar
+ar,argentina,.ar,chaco.ar
+ar,argentina,.ar,chubut.ar
+ar,argentina,.ar,corrientes.ar
+ar,argentina,.ar,entrerios.ar
+ar,argentina,.ar,formosa.ar
+ar,argentina,.ar,jujuy.ar
+ar,argentina,.ar,lapampa.ar
+ar,argentina,.ar,larioja.ar
+ar,argentina,.ar,misiones.ar
+ar,argentina,.ar,neuquen.ar
+ar,argentina,.ar,rionegro.ar
+ar,argentina,.ar,salta.ar
+ar,argentina,.ar,sanjuan.ar
+ar,argentina,.ar,sanluis.ar
+ar,argentina,.ar,santacruz.ar
+ar,argentina,.ar,santiago.ar
+ar,argentina,.ar,tierradelfuego.ar
+ar,argentina,.ar,tucuman.ar
+ar,argentina,.ar,argentina.gob.ar
+ar,argentina,.ar,datos.gob.ar
+as,american samoa,.as,as.gov
+as,american samoa,.as,doc.as.gov
+as,american samoa,.as,asg.as
+as,american samoa,.as,asnic.as
+as,american samoa,.as,astca.as
+as,american samoa,.as,aspa.as
+as,american samoa,.as,ascc.as
+as,american samoa,.as,lbj.as
+as,american samoa,.as,as-epa.as
 as,american samoa,.as,gov.as
+asean,asean,.org,asean.org
 at,austria,.at,gv.at
+at,austria,.at,oesterreich.at
+at,austria,.at,parlament.at
+at,austria,.at,rechnungshof.at
+at,austria,.at,verfassungsgerichtshof.at
+at,austria,.at,verwaltungsgerichtshof.at
+at,austria,.at,bundeskanzleramt.at
+at,austria,.at,bmeia.at
+at,austria,.at,burgenland.at
+at,austria,.at,kaernten.at
+at,austria,.at,steiermark.at
 au,australia,.au,gov.au
-aw,aruba,.aw,gov.aw
+au,australia,.au,csiro.au
+au,australia,.au,abc.net.au
+au,australia,.au,sbs.com.au
+au-org,african union,.org,au.int
+aw,aruba,.aw,gobierno.aw
+aw,aruba,.aw,overheid.aw
+aw,aruba,.aw,setar.aw
+aw,aruba,.aw,vda.aw
+aw,aruba,.aw,cba.aw
+aw,aruba,.aw,cbs.aw
+aw,aruba,.aw,kpa.aw
+aw,aruba,.aw,ea.aw
+aw,aruba,.aw,ata.aw
+aw,aruba,.aw,apa.aw
+aw,aruba,.aw,dip.aw
+aw,aruba,.aw,dwh.aw
+aw,aruba,.aw,fpa.aw
+aw,aruba,.aw,caft.aw
+aw,aruba,.aw,web.aw
+aw,aruba,.aw,elmar.aw
+aw,aruba,.aw,utilities.aw
+aw,aruba,.aw,corpgov.aw
+aw,aruba,.aw,dimas.aw
+aw,aruba,.aw,douane.aw
+aw,aruba,.aw,dpl.aw
+aw,aruba,.aw,drh.aw
+aw,aruba,.aw,dma.aw
+aw,aruba,.aw,dla.aw
+aw,aruba,.aw,dezhiv.aw
+aw,aruba,.aw,rva.aw
+aw,aruba,.aw,ansa.aw
+aw,aruba,.aw,ama.aw
+aw,aruba,.aw,aaa.aw
+aw,aruba,.aw,arina.aw
+aw,aruba,.aw,ana.aw
+aw,aruba,.aw,awss.aw
+aw,aruba,.aw,arubus.aw
+aw,aruba,.aw,bna.aw
+aw,aruba,.aw,bci.aw
+aw,aruba,.aw,beuk.aw
+aw,aruba,.aw,gnc.aw
+aw,aruba,.aw,bia.aw
+aw,aruba,.aw,bie.aw
+aw,aruba,.aw,blb.aw
+aw,aruba,.aw,blp.aw
+aw,aruba,.aw,bov.aw
+aw,aruba,.aw,bso.aw
+aw,aruba,.aw,btm.aw
+aw,aruba,.aw,cad.aw
+aw,aruba,.aw,dbsb.aw
+aw,aruba,.aw,brb.aw
+aw,aruba,.aw,dimp.aw
+aw,aruba,.aw,dti.aw
+aw,aruba,.aw,dac.aw
 az,azerbaijan,.az,gov.az
+az,azerbaijan,.az,mil.az
+az,azerbaijan,.az,edu.az
+az,azerbaijan,.az,parliament.az
+az,azerbaijan,.az,cbar.az
+az,azerbaijan,.az,maliyye.az
+az,azerbaijan,.az,taxes.gov.az
+az,azerbaijan,.az,customs.gov.az
+az,azerbaijan,.az,mia.gov.az
+az,azerbaijan,.az,mod.gov.az
+az,azerbaijan,.az,economy.gov.az
+az,azerbaijan,.az,mfa.gov.az
+az,azerbaijan,.az,justice.gov.az
+az,azerbaijan,.az,social.gov.az
+az,azerbaijan,.az,health.gov.az
+az,azerbaijan,.az,minenergy.gov.az
+az,azerbaijan,.az,mincom.gov.az
+az,azerbaijan,.az,agriculture.gov.az
+az,azerbaijan,.az,ecology.gov.az
+az,azerbaijan,.az,culture.gov.az
+az,azerbaijan,.az,mys.gov.az
+az,azerbaijan,.az,stat.gov.az
+az,azerbaijan,.az,asan.gov.az
+az,azerbaijan,.az,supremecourt.gov.az
+az,azerbaijan,.az,constcourt.gov.az
+az,azerbaijan,.az,nakhchivan.az
+az,azerbaijan,.az,my.gov.az
 ba,bosnia and herzegovina,.ba,gov.ba
+ba,bosnia and herzegovina,.ba,vijece-ministara.ba
+ba,bosnia and herzegovina,.ba,fbih.ba
+ba,bosnia and herzegovina,.ba,vladars.net
+ba,bosnia and herzegovina,.ba,bdcentral.net
+ba,bosnia and herzegovina,.ba,parlament.ba
+ba,bosnia and herzegovina,.ba,predsjednistvo.ba
+ba,bosnia and herzegovina,.ba,cbbh.ba
+ba,bosnia and herzegovina,.ba,os.ba
+ba,bosnia and herzegovina,.ba,edu.ba
+bb,barbados,.bb,blpc.com.bb
+bb,barbados,.bb,bwsa.bb
+bb,barbados,.bb,barbadosport.com
 bb,barbados,.bb,gov.bb
+bb,barbados,.bb,edu.bb
 bd,bangladesh,.bd,gov.bd
 bd,bangladesh,.bd,mil.bd
+bd,bangladesh,.bd,edu.bd
+bd,bangladesh,.bd,ac.bd
+bd,bangladesh,.bd,বাংলা
+bd,bangladesh,.bd,bb.org.bd
+bd,bangladesh,.bd,btcl.bd
 be,belgium,.be,fed.be
+be,belgium,.be,gov.be
+be,belgium,.be,fgov.be
+be,belgium,.be,mil.be
+be,belgium,.be,ac.be
+be,belgium,.be,belgium.be
+be,belgium,.be,nbb.be
+be,belgium,.be,vlaanderen.be
+be,belgium,.be,wallonie.be
+be,belgium,.be,ostbelgien.be
+be,belgium,.be,brussels.be
+be,belgium,.be,bosa.be
 bf,burkina faso,.bf,gov.bf
+bf,burkina faso,.bf,mil.bf
+bf,burkina faso,.bf,edu.bf
+bf,burkina faso,.bf,univ.bf
+bf,burkina faso,.bf,bceao.bf
 bg,bulgaria,.bg,government.bg
+bg,bulgaria,.bg,gov.bg
+bg,bulgaria,.bg,mil.bg
+bg,bulgaria,.bg,edu.bg
+bg,bulgaria,.bg,mvr.bg
+bg,bulgaria,.bg,bnb.bg
+bg,bulgaria,.bg,parliament.bg
+bg,bulgaria,.bg,mon.bg
+bg,bulgaria,.bg,mh.bg
+bg,bulgaria,.bg,justice.bg
+bg,bulgaria,.bg,me.bg
+bg,bulgaria,.bg,president.bg
+bg,bulgaria,.bg,nsi.bg
+bg,bulgaria,.bg,egov.bg
 bh,bahrain,.bh,gov.bh
+bh,bahrain,.bh,mil.bh
+bh,bahrain,.bh,edu.bh
+bh,bahrain,.bh,bahrain.bh
+bh,bahrain,.bh,parliament.bh
+bh,bahrain,.bh,centralbank.bh
+bh,bahrain,.bh,البحرين.
+bh,bahrain,.bh,moe.bh
 bi,burundi,.bi,gov.bi
+bi,burundi,.bi,mil.bi
+bi,burundi,.bi,edu.bi
+bi,burundi,.bi,parlement.bi
+bi,burundi,.bi,assnat.bi
+bi,burundi,.bi,senat.bi
+bi,burundi,.bi,finances.bi
+bi,burundi,.bi,presidence.bi
+bi,burundi,.bi,brb.bi
+bj,benin,.bj,andf.bj
+bj,benin,.bj,arcep.bj
+bj,benin,.bj,sbee.bj
+bj,benin,.bj,soneb.bj
+bj,benin,.bj,edu.bj
+bj,benin,.bj,mil.bj
 bj,benin,.bj,gouv.bj
 bm,bermuda,.bm,gov.bm
+bm,bermuda,.bm,parliament.bm
+bm,bermuda,.bm,customs.gov.bm
+bm,bermuda,.bm,immigration.gov.bm
+bm,bermuda,.bm,police.bm
+bm,bermuda,.bm,bma.bm
+bm,bermuda,.bm,bda.bm
+bm,bermuda,.bm,bsx.com
+bm,bermuda,.bm,abir.bm
+bm,bermuda,.bm,abic.bm
+bm,bermuda,.bm,ra.bm
+bm,bermuda,.bm,customs.bm
+bm,bermuda,.bm,bermudalaws.bm
+bm,bermuda,.bm,bermudaregiment.bm
+bm,bermuda,.bm,bermudapolice.bm
+bm,bermuda,.bm,moed.bm
+bm,bermuda,.bm,ico.bm
 bn,brunei darussalam,.bn,gov.bn
+bn,brunei darussalam,.bn,brunei.gov.bn
+bo,bolivia,.bo,lapaz.bo
+bo,bolivia,.bo,santacruzdelasierra.gob.bo
+bo,bolivia,.bo,cochabamba.bo
+bo,bolivia,.bo,oruro.bo
+bo,bolivia,.bo,sucre.bo
+bo,bolivia,.bo,potosi.bo
+bo,bolivia,.bo,tarija.bo
+bo,bolivia,.bo,trinidad.bo
+bo,bolivia,.bo,cobija.bo
+bo,bolivia,.bo,ypfb.gob.bo
+bo,bolivia,.bo,ende.bo
+bo,bolivia,.bo,entel.bo
+bo,bolivia,.bo,boa.bo
+bo,bolivia,.bo,ecobol.com.bo
+bo,bolivia,.bo,comibol.gob.bo
+bo,bolivia,.bo,aasana.gob.bo
+bo,bolivia,.bo,vinto.gob.bo
 bo,bolivia,.bo,gob.bo
+br,brazil,.br,embrapa.br
+br,brazil,.br,fiocruz.br
+br,brazil,.br,telebras.com.br
+br,brazil,.br,bb.com.br
+br,brazil,.br,mp.br
+br,brazil,.br,petrobras.com.br
+br,brazil,.br,eletrobras.com
+br,brazil,.br,correios.com.br
 br,brazil,.br,gov.br
 br,brazil,.br,leg.br
 br,brazil,.br,jus.br
 br,brazil,.br,mil.br
 br,brazil,.br,def.br
+br,brazil,.br,brazil.gov.br
+br,brazil,.br,dados.gov.br
+br,brazil,.br,transparencia.gov.br
+br,brazil,.br,participa.br
+bs,bahamas,.bs,bpl.com.bs
+bs,bahamas,.bs,wsc.com.bs
+bs,bahamas,.bs,bahamasair.com
 bs,bahamas,.bs,gov.bs
 bt,bhutan,.bt,gov.bt
+bt,bhutan,.bt,bhutan.gov.bt
 bw,botswana,.bw,gov.bw
+bw,botswana,.bw,www.gov.bw
 by,belarus,.by,gov.by
+by,belarus,.by,portal.gov.by
+bz,belize,.bz,belizecitycouncil.org
+bz,belize,.bz,sanpedrotown.org
+bz,belize,.bz,orangewalk.gov.bz
+bz,belize,.bz,sib.org.bz
+bz,belize,.bz,belizezoo.org
+bz,belize,.bz,nemo.org.bz
+bz,belize,.bz,statisticsbelize.org.bz
 bz,belize,.bz,gov.bz
+ca,canada,.ca,torontopolice.on.ca
+ca,canada,.ca,edmontonpolice.ca
+ca,canada,.ca,vpd.ca
+ca,canada,.ca,toronto.ca
+ca,canada,.ca,montreal.ca
+ca,canada,.ca,vancouver.ca
+ca,canada,.ca,calgary.ca
+ca,canada,.ca,edmonton.ca
+ca,canada,.ca,ottawa.ca
+ca,canada,.ca,winnipeg.ca
+ca,canada,.ca,quebec.ca
+ca,canada,.ca,hamilton.ca
+ca,canada,.ca,halifax.ca
+ca,canada,.ca,opp.ca
+ca,canada,.ca,cdic.ca
+ca,canada,.ca,aecl.ca
+ca,canada,.ca,norad.mil
+ca,canada,.ca,parl.ca
+ca,canada,.ca,senate.ca
+ca,canada,.ca,alberta.ca
+ca,canada,.ca,gov.bc.ca
 ca,canada,.ca,gc.ca
-ca,ontario,.ca,ontario.ca
-ca,quebec,.ca,quebec.ca
-ca,british columbia,.ca,gov.bc.ca
-ca,alberta,.ca,alberta.ca
-ca,manitoba,.ca,manitoba.ca
-ca,saskatchewan,.ca,saskatchewan.ca
-ca,nova scotia,.ca,novascotia.ca
-ca,new brunswick,.ca,gnb.ca
-ca,newfoundland and labrador,.ca,gov.nl.ca
-ca,prince edward island,.ca,princeedwardisland.ca
-ca,northwest territories,.ca,gov.nt.ca
-ca,yukon,.ca,yukon.ca
-ca,nunavut,.ca,gov.nu.ca
+ca,canada,.ca,canada.ca
+ca,canada,.ca,manitoba.ca
+ca,canada,.ca,gnb.ca
+ca,canada,.ca,gov.nl.ca
+ca,canada,.ca,gov.nt.ca
+ca,canada,.ca,novascotia.ca
+ca,canada,.ca,gov.nu.ca
+ca,canada,.ca,ontario.ca
+ca,canada,.ca,princeedwardisland.ca
+ca,canada,.ca,saskatchewan.ca
+ca,canada,.ca,yukon.ca
+caricom,caribbean community,.org,caricom.org
+cd,congo democratic republic,.cd,edu.cd
+cd,congo democratic republic,.cd,ac.cd
+cd,congo democratic republic,.cd,dgm.cd
+cd,congo democratic republic,.cd,presidence.cd
 cd,congo democratic republic,.cd,gouv.cd
+cd,congo democratic republic,.cd,presidentrdc.cd
 cf,central african republic,.cf,gouv.cf
+cf,central african republic,.cf,governo.cv
+cg,congo,.cg,gouvernement.cg
 cg,congo,.cg,gouv.cg
+cg,congo,.cg,presidence.cg
 ch,switzerland,.ch,admin.ch
 ch,switzerland,.ch,ch.ch
+ch,switzerland,.ch,edu.ch
+ch,switzerland,.ch,federal.ch
+ch,switzerland,.ch,mil.ch
+ch,switzerland,.ch,parlament.ch
+ch,switzerland,.ch,parlement.ch
+ch,switzerland,.ch,parlamento.ch
+ch,switzerland,.ch,parlamentar.ch
+ch,switzerland,.ch,post.ch
+ch,switzerland,.ch,rail.ch
+ch,switzerland,.ch,swisspost.ch
 ci,cote d'ivoire,.ci,gouv.ci
 ck,cook islands,.ck,gov.ck
+cl,chile,.cl,munistgo.cl
+cl,chile,.cl,providencia.cl
+cl,chile,.cl,lascondes.cl
+cl,chile,.cl,nunoa.cl
+cl,chile,.cl,vina.cl
+cl,chile,.cl,concepcion.cl
+cl,chile,.cl,antofagasta.cl
+cl,chile,.cl,temuco.cl
+cl,chile,.cl,valparaiso.cl
+cl,chile,.cl,puertomontt.cl
+cl,chile,.cl,acague.cl
+cl,chile,.cl,acapomil.cl
+cl,chile,.cl,aduana.cl
+cl,chile,.cl,agci.cl
+cl,chile,.cl,anepe.cl
+cl,chile,.cl,apoyovictimas.cl
+cl,chile,.cl,armada.cl
+cl,chile,.cl,artesaniasdechile.cl
+cl,chile,.cl,asignacionfamiliar.cl
+cl,chile,.cl,asmar.cl
+cl,chile,.cl,ayudamineduc.cl
+cl,chile,.cl,bancoestado.cl
+cl,chile,.cl,bcentral.cl
+cl,chile,.cl,bcn.cl
+cl,chile,.cl,bienes.cl
+cl,chile,.cl,bienesnacionales.cl
+cl,chile,.cl,cajmetro.cl
+cl,chile,.cl,camara.cl
+cl,chile,.cl,carabinerosdechile.cl
+cl,chile,.cl,catastro.cl
+cl,chile,.cl,cchen.cl
+cl,chile,.cl,cde.cl
+cl,chile,.cl,cenabast.cl
+cl,chile,.cl,chileagricola.cl
+cl,chile,.cl,chileclic.cl
+cl,chile,.cl,chilecompra.cl
+cl,chile,.cl,chileproveedores.cl
+cl,chile,.cl,cinechile.cl
+cl,chile,.cl,ciren.cl
+cl,chile,.cl,cmfchile.cl
+cl,chile,.cl,cmoneda.cl
+cl,chile,.cl,cnad.cl
+cl,chile,.cl,cne.cl
+cl,chile,.cl,cntv.cl
+cl,chile,.cl,cochilco.cl
+cl,chile,.cl,codelco.com
+cl,chile,.cl,comisariavirtual.cl
+cl,chile,.cl,conaf.cl
+cl,chile,.cl,conaset.cl
+cl,chile,.cl,congreso.cl
+cl,chile,.cl,conicyt.cl
+cl,chile,.cl,conservadores.cl
+cl,chile,.cl,contraloria.cl
+cl,chile,.cl,corfo.cl
+cl,chile,.cl,cosale.cl
+cl,chile,.cl,cpeip.cl
+cl,chile,.cl,crecemujer.cl
+cl,chile,.cl,defensa.cl
+cl,chile,.cl,defensacivil.cl
+cl,chile,.cl,denunciaseguro.cl
+cl,chile,.cl,dgmn.cl
+cl,chile,.cl,dgop.cl
+cl,chile,.cl,dicrep.cl
+cl,chile,.cl,dipres.cl
+cl,chile,.cl,directemar.cl
+cl,chile,.cl,dirplan.cl
+cl,chile,.cl,dpp.cl
+cl,chile,.cl,ejercito.cl
+cl,chile,.cl,enami.cl
+cl,chile,.cl,enap.cl
+cl,chile,.cl,enccrv.cl
+cl,chile,.cl,escueladesuboficiales.cl
+cl,chile,.cl,escuelamilitar.cl
+cl,chile,.cl,fia.cl
+cl,chile,.cl,fiscalizacion.cl
+cl,chile,.cl,fne.cl
+cl,chile,.cl,fonasa.cl
+cl,chile,.cl,fondosdecultura.cl
+cl,chile,.cl,fucoa.cl
 cl,chile,.cl,gob.cl
+cl,chile,.cl,gobiernodechile.cl
+cl,chile,.cl,gobiernosantiago.cl
+cl,chile,.cl,goreantofagasta.cl
+cl,chile,.cl,gorearaucania.cl
+cl,chile,.cl,gorearicayparinacota.cl
+cl,chile,.cl,goreatacama.cl
+cl,chile,.cl,goreaysen.cl
+cl,chile,.cl,gorecoquimbo.cl
+cl,chile,.cl,goredelosrios.cl
+cl,chile,.cl,goredenuble.cl
+cl,chile,.cl,goreloslagos.cl
+cl,chile,.cl,goremagallanes.cl
+cl,chile,.cl,goremaule.cl
+cl,chile,.cl,goreohiggins.cl
+cl,chile,.cl,gorevalparaiso.cl
+cl,chile,.cl,gov.cl
+cl,chile,.cl,hacienda.cl
+cl,chile,.cl,hospitalsoterodelrio.cl
+cl,chile,.cl,hoy.cl
+cl,chile,.cl,ide.cl
+cl,chile,.cl,inach.cl
+cl,chile,.cl,inapi.cl
+cl,chile,.cl,ind.cl
+cl,chile,.cl,indap.cl
+cl,chile,.cl,ine.cl
+cl,chile,.cl,infor.cl
+cl,chile,.cl,inh.cl
+cl,chile,.cl,inia.cl
+cl,chile,.cl,integra.cl
+cl,chile,.cl,isp.cl
+cl,chile,.cl,junaeb.cl
+cl,chile,.cl,mediacionchile.cl
+cl,chile,.cl,metro.cl
+cl,chile,.cl,mil.cl
+cl,chile,.cl,mindep.cl
+cl,chile,.cl,mineduc.cl
+cl,chile,.cl,minmineria.cl
+cl,chile,.cl,minsal.cl
+cl,chile,.cl,minvu.cl
+cl,chile,.cl,mop.cl
+cl,chile,.cl,municipioverde.cl
+cl,chile,.cl,observatoriourbano.cl
+cl,chile,.cl,patrimoniourbano.cl
+cl,chile,.cl,pdi.cl
+cl,chile,.cl,pjud.cl
+cl,chile,.cl,practicasparachile.cl
+cl,chile,.cl,presidencia.cl
+cl,chile,.cl,prodemu.cl
+cl,chile,.cl,red.cl
+cl,chile,.cl,redprotege.cl
+cl,chile,.cl,registrocivil.cl
+cl,chile,.cl,sec.cl
+cl,chile,.cl,senado.cl
+cl,chile,.cl,sename.cl
+cl,chile,.cl,sepchile.cl
+cl,chile,.cl,sernac.cl
+cl,chile,.cl,sernageomin.cl
+cl,chile,.cl,sernapesca.cl
+cl,chile,.cl,sernatur.cl
+cl,chile,.cl,servel.cl
+cl,chile,.cl,serviciocivil.cl
+cl,chile,.cl,sicexchile.cl
+cl,chile,.cl,sigimindep.cl
+cl,chile,.cl,sii.cl
+cl,chile,.cl,sistemadeadmisionescolar.cl
+cl,chile,.cl,sitrural.cl
+cl,chile,.cl,spensiones.cl
+cl,chile,.cl,ssdefensa.cl
+cl,chile,.cl,ssffaa.cl
+cl,chile,.cl,ssmso.cl
+cl,chile,.cl,subpesca.cl
+cl,chile,.cl,supereduc.cl
+cl,chile,.cl,suseso.cl
+cl,chile,.cl,tdlc.cl
+cl,chile,.cl,tenenciaresponsablemascotas.cl
+cl,chile,.cl,tgr.cl
+cl,chile,.cl,tne.cl
+cl,chile,.cl,transporteinforma.cl
+cl,chile,.cl,transportescucha.cl
+cl,chile,.cl,tribunalcalificador.cl
+cl,chile,.cl,tribunalconstitucional.cl
+cl,chile,.cl,tvd.cl
+cl,chile,.cl,uaf.cl
+cl,chile,.cl,viacontrolada.cl
+cl,chile,.cl,vialidad.cl
+cl,chile,.cl,www.gob.cl
+cl,chile,.cl,gobiernoabierto.gob.cl
 cm,cameroon,.cm,gov.cm
+cn,china,.cn,sasac.gov.cn
+cn,china,.cn,sinopec.com
+cn,china,.cn,cnpc.com.cn
+cn,china,.cn,sgcc.com.cn
+cn,china,.cn,cnooc.com.cn
+cn,china,.cn,baowugroup.com
+cn,china,.cn,chinalco.com.cn
+cn,china,.cn,cosco.com
+cn,china,.cn,cmhk.com
+cn,china,.cn,crrc.cn
+cn,china,.cn,cofco.com
+cn,china,.cn,sinochem.com
+cn,china,.cn,citic.com
+cn,china,.cn,poly.com.cn
+cn,china,.cn,cetc.com.cn
+cn,china,.cn,mil.cn
+cn,china,.cn,chinacourt.org
+cn,china,.cn,chinapeace.org.cn
+cn,china,.cn,81.cn
+cn,china,.cn,chinamil.com.cn
+cn,china,.cn,pla.cn
+cn,china,.cn,planavy.cn
+cn,china,.cn,plaaf.cn
+cn,china,.cn,plarf.cn
+cn,china,.cn,plassf.cn
+cn,china,.cn,xjlc.cn
+cn,china,.cn,njlc.cn
+cn,china,.cn,bjlc.cn
+cn,china,.cn,cdlc.cn
 cn,china,.cn,gov.cn
+co,colombia,.co,ecopetrol.com.co
+co,colombia,.co,isagen.com.co
+co,colombia,.co,isa.co
+co,colombia,.co,etb.com.co
+co,colombia,.co,satena.com
+co,colombia,.co,mil.co
+co,colombia,.co,edu.co
 co,colombia,.co,gov.co
+coe,council of europe,.org,coe.int
+com,democratic people's republic of korea,.com,korea-dpr.com
+commonwealth,commonwealth of nations,.org,thecommonwealth.org
+cr,costa rica,.cr,ccss.sa.cr
+cr,costa rica,.cr,inec.cr
+cr,costa rica,.cr,imn.ac.cr
+cr,costa rica,.cr,procomer.com
+cr,costa rica,.cr,cinde.org
+cr,costa rica,.cr,gobierno.cr
 cr,costa rica,.cr,go.cr
+cr,costa rica,.cr,presidencia.go.cr
+cr,costa rica,.cr,gobiernoabierto.go.cr
+cu,cuba,.cu,etecsa.cu
+cu,cuba,.cu,cubana.cu
+cu,cuba,.cu,azcuba.cu
+cu,cuba,.cu,cimex.com.cu
+cu,cuba,.cu,artexsa.com
+cu,cuba,.cu,habanos.com
+cu,cuba,.cu,lacasadelhabano.com
+cu,cuba,.cu,biocubafarma.cu
+cu,cuba,.cu,jovenclub.cu
+cu,cuba,.cu,esicuba.cu
+cu,cuba,.cu,gaviota-grupo.com
+cu,cuba,.cu,zedmariel.com
+cu,cuba,.cu,cubaminrex.cu
+cu,cuba,.cu,mes.edu.cu
+cu,cuba,.cu,cuba.cu
+cu,cuba,.cu,mipais.cuba.cu
 cu,cuba,.cu,gob.cu
+cu,cuba,.cu,cubagob.cu
 cv,cabo verde,.cv,gov.cv
+cv,cabo verde,.cv,governo.cv
+cw,curacao,.cw,politie.cw
 cw,curacao,.cw,gobiernu.cw
+cw,curacao,.cw,overheid.cw
+cw,curacao,.cw,staten.cw
+cw,curacao,.cw,ombudsman.cw
+cw,curacao,.cw,immigration.cw
+cw,curacao,.cw,douane.cw
 cy,cyprus,.cy,gov.cy
-cz,czechia,.cz,gov.cz
+cy,cyprus,.cy,cyprus.gov.cy
+cy,cyprus,.cy,data.gov.cy
+cz,czech republic,.cz,vlada.cz
+cz,czech republic,.cz,portal.gov.cz
+cz,czech republic,.cz,gov.cz
+de,germany,.de,60jahresozialstaat.de
+de,germany,.de,CIEC-Deutschland.de
+de,germany,.de,a9digital.de
+de,germany,.de,adele-esf.de
+de,germany,.de,agrowetter.de
+de,germany,.de,agrowetter.eu
+de,germany,.de,aktionsplan-allergien.de
+de,germany,.de,allianz-fuer-arbeitskraefte.de
+de,germany,.de,allianz-fuer-fachkraefte.de
+de,germany,.de,alpenflugwetter.com
+de,germany,.de,alpenflugwetter.de
+de,germany,.de,alpenflugwetter.eu
+de,germany,.de,alpenwetter.eu
+de,germany,.de,altersvorsorgemachtschule.com
+de,germany,.de,altersvorsorgemachtschule.de
+de,germany,.de,altersvorsorgemachtschule.info
+de,germany,.de,altersvorsorgemachtschule.net
+de,germany,.de,altersvorsorgemachtschule.org
+de,germany,.de,anticorruption.help
+de,germany,.de,arb-5.de
+de,germany,.de,arbeit-4-null.de
+de,germany,.de,arbeit-4-punkt-null.de
+de,germany,.de,arbeit-psyche.de
+de,germany,.de,arbeitderzukunft.de
+de,germany,.de,arbeiten-4-0.de
+de,germany,.de,arbeiten4null.de
+de,germany,.de,arbeiten4punktnull.de
+de,germany,.de,arbeitenbis67.de
+de,germany,.de,arbeitenviernull.de
+de,germany,.de,arbeitenvierpunktnull.de
+de,germany,.de,arbeitsagentur.de
+de,germany,.de,arbeitsmarktreform.de
+de,germany,.de,arbeitsministerium.eu
+de,germany,.de,arbeitsschutz-forschung.de
+de,germany,.de,arbeitvierpunktnull.de
+de,germany,.de,arl-net.de
+de,germany,.de,armutsbericht.de
+de,germany,.de,armutsundreichtumsbericht.de
+de,germany,.de,ausbildungsportal.org
+de,germany,.de,auslandschulwesen.de
+de,germany,.de,auslandsschulportal.de
+de,germany,.de,auslandsschulwesen.de
+de,germany,.de,auslandsschulwesen.eu
+de,germany,.de,auslandsschulwesen.net
+de,germany,.de,aussiedlerbeauftragter.de
+de,germany,.de,auswaertiges-amt.de
+de,germany,.de,auswanderungswesen.de
+de,germany,.de,aviation-weather.eu
+de,germany,.de,ba-reform.de
+de,germany,.de,baainbw.de
+de,germany,.de,bafa.de
+de,germany,.de,bafg.de
+de,germany,.de,bafin.de
+de,germany,.de,bafoeg-rueckzahlung.de
+de,germany,.de,bafoeg.online
+de,germany,.de,bafza.de
+de,germany,.de,ballonwetter.de
+de,germany,.de,ballonwetter.eu
+de,germany,.de,bam.de
+de,germany,.de,bamf.de
+de,germany,.de,bankenunion.de
+de,germany,.de,banst-pt.de
+de,germany,.de,bast.de
+de,germany,.de,baua.de
+de,germany,.de,bauminister.de
+de,germany,.de,baw.de
+de,germany,.de,behindern-ist-heilbar.de
+de,germany,.de,beirat-raumentwicklung.de
+de,germany,.de,beschaeftigtebeteiligen.de
+de,germany,.de,beschaeftigung-aelterer.de
+de,germany,.de,bevoelkerungsschutz.de
+de,germany,.de,bfarm.de
+de,germany,.de,bfb-bund.de
+de,germany,.de,bfn.de
+de,germany,.de,bfs.de
+de,germany,.de,bfu-web.de
+de,germany,.de,bibb.de
+de,germany,.de,bildungskredit.de
+de,germany,.de,bildungskredit.online
+de,germany,.de,bildungspaket-bmas.de
+de,germany,.de,bisp.de
+de,germany,.de,bitvlotse.de
+de,germany,.de,bka-bund.de
+de,germany,.de,bka.de
+de,germany,.de,bkge.de
+de,germany,.de,ble.de
+de,germany,.de,blickpunkt-bundestag.de
+de,germany,.de,bma.de
+de,germany,.de,bmas-alleinerziehende.de
+de,germany,.de,bmas.de
+de,germany,.de,bmas.eu
+de,germany,.de,bmas.mobi
+de,germany,.de,bmbf.de
+de,germany,.de,bmel.de
+de,germany,.de,bmfsfj.de
+de,germany,.de,bmjv.de
+de,germany,.de,bmvbs.de
+de,germany,.de,bmvg.de
+de,germany,.de,bmvi.de
+de,germany,.de,bmvi.eu
+de,germany,.de,bmvi.info
+de,germany,.de,bmvi.net
+de,germany,.de,bmvi.org
+de,germany,.de,bmwi.de
+de,germany,.de,bmz.de
+de,germany,.de,bpatg.de
+de,germany,.de,bpb.de
+de,germany,.de,breitbandatlas.de
+de,germany,.de,briefing4aviation.com
+de,germany,.de,briefing4aviation.de
+de,germany,.de,briefing4aviation.eu
+de,germany,.de,briefing4pilot.com
+de,germany,.de,briefing4pilot.de
+de,germany,.de,briefing4pilot.eu
+de,germany,.de,bsh.de
+de,germany,.de,bspc2007.de
+de,germany,.de,bsu-bund.de
+de,germany,.de,buehnenversorgung.de
 de,germany,.de,bund.de
-de,bavaria,.de,bayern.de
-de,berlin,.de,berlin.de
-de,baden-wurttemberg,.de,baden-wuerttemberg.de
-de,brandenburg,.de,brandenburg.de
-de,bremen,.de,bremen.de
-de,hamburg,.de,hamburg.de
-de,hesse,.de,hessen.de
-de,mecklenburg-vorpommern,.de,regierung-mv.de
-de,lower saxony,.de,niedersachsen.de
-de,north rhine-westphalia,.de,nrw.de
-de,rhineland-palatinate,.de,rlp.de
-de,saarland,.de,saarland.de
-de,saxony,.de,sachsen.de
-de,saxony-anhalt,.de,sachsen-anhalt.de
-de,schleswig-holstein,.de,schleswig-holstein.de
-de,thuringia,.de,thueringen.de
+de,germany,.de,bund.online
+de,germany,.de,bund.services
+de,germany,.de,bundesamtsozialesicherung.de
+de,germany,.de,bundesarbeitsgericht.de
+de,germany,.de,bundesarbeitsministerium.de
+de,germany,.de,bundesarbeitsministerium.eu
+de,germany,.de,bundesarchiv.de
+de,germany,.de,bundesausgleichsamt.de
+de,germany,.de,bundesbank.de
+de,germany,.de,bundesbauminister.com
+de,germany,.de,bundesbauminister.de
+de,germany,.de,bundesbauminister.net
+de,germany,.de,bundesbauminister.org
+de,germany,.de,bundesbauministerium.com
+de,germany,.de,bundesbauministerium.de
+de,germany,.de,bundesbauministerium.net
+de,germany,.de,bundesbauministerium.org
+de,germany,.de,bundescriminalamt.de
+de,germany,.de,bundesfinanzhof.de
+de,germany,.de,bundesfinanzministerium.de
+de,germany,.de,bundesgerichtshof.de
+de,germany,.de,bundeshaus.de
+de,germany,.de,bundeshaushalt-info.de
+de,germany,.de,bundesimmobilien.de
+de,germany,.de,bundesinfrastrukturministerium.de
+de,germany,.de,bundesjustizamt.de
+de,germany,.de,bundeskanzleramt.de
+de,germany,.de,bundeskanzlerin.de
+de,germany,.de,bundeskartellamt.de
+de,germany,.de,bundeskriminalamt.de
+de,germany,.de,bundeskriminalamt.eu
+de,germany,.de,bundeskriminalamt.info
+de,germany,.de,bundeskriminalamt.net
+de,germany,.de,bundeskriminalamt.org
+de,germany,.de,bundesministerium-fuer-arbeit-und-soziales.eu
+de,germany,.de,bundesministerium-fuer-stadtentwicklung.de
+de,germany,.de,bundesnetzagentur.de
+de,germany,.de,bundespolizei.de
+de,germany,.de,bundespraesident.de
+de,germany,.de,bundespruefstelle.de
+de,germany,.de,bundesrat.de
+de,germany,.de,bundesrechnungshof.de
+de,germany,.de,bundesregierung.de
+de,germany,.de,bundessortenamt.de
+de,germany,.de,bundessozialgericht.de
+de,germany,.de,bundessozialministerium.de
+de,germany,.de,bundessozialministerium.eu
+de,germany,.de,bundessprachenamt.de
+de,germany,.de,bundesstelle-fuer-informationstechnik.de
+de,germany,.de,bundestag-magazin.de
+de,germany,.de,bundestag-online.de
+de,germany,.de,bundestag-und-schule.de
+de,germany,.de,bundestag.de
+de,germany,.de,bundestag.eu
+de,germany,.de,bundestag.mobi
+de,germany,.de,bundestagsarena.de
+de,germany,.de,bundestagspraesident.de
+de,germany,.de,bundestagspraesidentin.de
+de,germany,.de,bundesverfassungsgericht.de
+de,germany,.de,bundesverkehrsminister.com
+de,germany,.de,bundesverkehrsminister.de
+de,germany,.de,bundesverkehrsminister.net
+de,germany,.de,bundesverkehrsminister.org
+de,germany,.de,bundesverkehrsministerium.com
+de,germany,.de,bundesverkehrsministerium.de
+de,germany,.de,bundesverkehrsministerium.net
+de,germany,.de,bundesverkehrsministerium.org
+de,germany,.de,bundesversammlung.de
+de,germany,.de,bundesverwaltungsamt.de
+de,germany,.de,bundesverwaltungsgericht.de
+de,germany,.de,bundeswahlleiter.de
+de,germany,.de,bundeswehr.de
+de,germany,.de,bundeswehrkrankenhaus-berlin.de
+de,germany,.de,bundeswehrkrankenhaus-hamburg.de
+de,germany,.de,bundeswehrkrankenhaus-koblenz.de
+de,germany,.de,bundeswehrkrankenhaus-ulm.de
+de,germany,.de,bundeswehrkrankenhaus-westerstede.de
+de,germany,.de,bva-dienstleistungszentrum.de
+de,germany,.de,bva.services
+de,germany,.de,bva.website
+de,germany,.de,bvwp2015.de
+de,germany,.de,bzga.de
+de,germany,.de,caf-netzwerk.de
+de,germany,.de,cert-bund.de
+de,germany,.de,cerwis.eu
+de,germany,.de,chancen-mit-erfahrung.de
+de,germany,.de,climatemonitoring.de
+de,germany,.de,climatemonitoring.eu
+de,germany,.de,climateservice.eu
+de,germany,.de,climateservices.de
+de,germany,.de,climateservices.eu
+de,germany,.de,cmsaf.eu
+de,germany,.de,csr-preis-bund.de
+de,germany,.de,csr-unternehmenswerte.de
+de,germany,.de,csrindeutschland.de
+de,germany,.de,csringermany.de
+de,germany,.de,csrmadeingermany.de
+de,germany,.de,d-klip.de
+de,germany,.de,dainst.org
+de,germany,.de,das-bildungspaket.de
+de,germany,.de,das-demographie-netzwerk.de
+de,germany,.de,das-halbe-leben.com
+de,germany,.de,das-halbe-leben.net
+de,germany,.de,das-jobcenter.de
+de,germany,.de,das-parlament.de
+de,germany,.de,das-rentenpaket.de
+de,germany,.de,das-rentenreformpaket.de
+de,germany,.de,dashalbeleben.de
+de,germany,.de,datenhandbuch-bundestag.de
+de,germany,.de,dates-esf-test.de
+de,germany,.de,dates-esf.de
+de,germany,.de,dbt-internet.de
+de,germany,.de,dbtg-newsletter.de
+de,germany,.de,dbtg.eu
+de,germany,.de,dbtg.tv
+de,germany,.de,dehst.de
+de,germany,.de,dekabank.de
+de,germany,.de,demograf.de
+de,germany,.de,der-demograf.de
+de,germany,.de,der-mindestlohn-gilt.de
+de,germany,.de,der-mindestlohn-kommt.de
+de,germany,.de,der-mindestlohn-wirkt.de
+de,germany,.de,der-mindestlohn.de
+de,germany,.de,derbevoelkerung.de
+de,germany,.de,destatis.de
+de,germany,.de,deutsche-polizei.eu
+de,germany,.de,deutscher-bundestag.de
+de,germany,.de,deutscher-bundestag.eu
+de,germany,.de,deutscher-klimaatlas.de
+de,germany,.de,deutscher-wetterdienst.com
+de,germany,.de,deutscher-wetterdienst.de
+de,germany,.de,deutscher-wetterdienst.eu
+de,germany,.de,deutscherdom.de
+de,germany,.de,deutsches-klimaportal.de
+de,germany,.de,deutsches-museum.de
+de,germany,.de,deutsches-parlament.eu
+de,germany,.de,deutschesheer.de
+de,germany,.de,deutscheweine.de
+de,germany,.de,deutschland-wird-inklusiv.de
+de,germany,.de,die-rente.com
+de,germany,.de,die-rente.info
+de,germany,.de,die-rente.net
+de,germany,.de,die-rente.org
+de,germany,.de,dienstleistungszentrum.de
+de,germany,.de,dienstreisezentrum.de
+de,germany,.de,digital-made-in.de
+de,germany,.de,digitaleautobahn.de
+de,germany,.de,digitales-testfeld-autobahn.de
+de,germany,.de,digitalestestfeld.de
+de,germany,.de,dimdi.de
+de,germany,.de,dip-online.de
+de,germany,.de,dip21.de
+de,germany,.de,dnb.de
+de,germany,.de,doi-de.net
+de,germany,.de,doi-sec-de.net
+de,germany,.de,dpma.de
+de,germany,.de,dsd-weltweit.de
+de,germany,.de,dsd.online
+de,germany,.de,dta9.de
+de,germany,.de,dvdv.de
+de,germany,.de,dw.com
+de,germany,.de,dwd-shop.de
+de,germany,.de,dwd-shop.eu
+de,germany,.de,dwd.de
+de,germany,.de,dwd.eu
+de,germany,.de,e-bundestag.de
+de,germany,.de,e-goverment.eu
+de,germany,.de,e-parliament.de
+de,germany,.de,ein-und-ausblicke.de
+de,germany,.de,einfach-leichte-sprache.de
+de,germany,.de,einfachteilhaben.de
+de,germany,.de,einfachteilhaben.mobi
+de,germany,.de,einsatzfuerarbeit.de
+de,germany,.de,eisenbahn-unfalluntersuchung.de
+de,germany,.de,energie-fuer-morgen.de
+de,germany,.de,eparlament.de
+de,germany,.de,equal.de
+de,germany,.de,esa-cloud-cci.eu
+de,germany,.de,esa-cloud-cci.info
+de,germany,.de,esa-cloud-cci.net
+de,germany,.de,esa-cloud-cci.org
+de,germany,.de,esf-foerderung.de
+de,germany,.de,esf-in-deutschland.de
+de,germany,.de,esf-meine-geschichte.de
+de,germany,.de,esf-programm.de
+de,germany,.de,esf.de
+de,germany,.de,european-enet.org
+de,germany,.de,evergabe-online.info
+de,germany,.de,fachkraefte-allianz.de
+de,germany,.de,fachkraefteoffensive.de
+de,germany,.de,fachkraeftewoche.de
+de,germany,.de,favorit.de
+de,germany,.de,federal-ministry-of-finance.de
+de,germany,.de,finanzforscher.de
+de,germany,.de,flugmet.de
+de,germany,.de,flugmet.eu
+de,germany,.de,flugwetter-beratung.de
+de,germany,.de,flugwetter.de
+de,germany,.de,flugwetter.eu
+de,germany,.de,fmsa.de
+de,germany,.de,foerdern-und-fordern.info
+de,germany,.de,foev-speyer.de
+de,germany,.de,fondsheimkinder.de
+de,germany,.de,fons-civitatis.de
+de,germany,.de,fuereinlebenswertesland.de
+de,germany,.de,gcos.de
+de,germany,.de,gda-psyche.de
+de,germany,.de,gei.de
+de,germany,.de,gemeinsam-einfach-machen.de
+de,germany,.de,generalbundesanwalt.de
+de,germany,.de,generationenarbeit.de
+de,germany,.de,generationpraktikum.de
+de,germany,.de,gesundheitswetter.eu
+de,germany,.de,gisc-germany.eu
+de,germany,.de,gisc-offenbach.eu
+de,germany,.de,glasklar-bundestag.de
+de,germany,.de,globalisierungsfonds.de
+de,germany,.de,government-site-builder.de
+de,germany,.de,gp-habitat.de
+de,germany,.de,gph-habitat.de
+de,germany,.de,gruan.org
+de,germany,.de,gsnmc.eu
+de,germany,.de,gute-arbeit-alleinerziehende.de
+de,germany,.de,hartziv.de
+de,germany,.de,heimkinder-fonds.de
+de,germany,.de,hinzuverdienstrechner.de
+de,germany,.de,ida.de
+de,germany,.de,ifado.de
+de,germany,.de,infrastrukturministerium.de
+de,germany,.de,initiative-neue-qualitaet-der-arbeit.de
+de,germany,.de,inklusionslandkarte.de
+de,germany,.de,innerersicherheitsfonds.de
+de,germany,.de,inqa-bestellservice.de
+de,germany,.de,inqa-check.de
+de,germany,.de,inqa-ddn.de
+de,germany,.de,inqa-demografie.de
+de,germany,.de,inqa-demographie-netzwerk.de
+de,germany,.de,inqa-demographie.de
+de,germany,.de,inqa-epoxibewertung.de
+de,germany,.de,inqa-kmu.de
+de,germany,.de,inqa-mittelstand.de
+de,germany,.de,inqa-pflege.de
+de,germany,.de,inqa-produktion.de
+de,germany,.de,inqa-stress.de
+de,germany,.de,inqa.de
+de,germany,.de,integration-in-deutschland.de
+de,germany,.de,internetenquete.de
+de,germany,.de,isyfact-standards.de
+de,germany,.de,isyfact.de
+de,germany,.de,itzbund.de
+de,germany,.de,jakob-kaiser-haus.de
+de,germany,.de,job-drei-null.de
+de,germany,.de,job3punkt0.de
+de,germany,.de,job3punktnull.de
+de,germany,.de,jobcenterreform.de
+de,germany,.de,jobcenterservice.de
+de,germany,.de,jobcentersuche.de
+de,germany,.de,jobdreipunktnull.de
+de,germany,.de,jobsohnebarrieren.de
+de,germany,.de,jugendinarbeit.de
+de,germany,.de,julius-kuehn.de
+de,germany,.de,kba.de
+de,germany,.de,kfw-ipex-bank.de
+de,germany,.de,kinderkommission.de
+de,germany,.de,klimadaten.eu
+de,germany,.de,klimadeutschland.de
+de,germany,.de,klimagutachten.eu
+de,germany,.de,klimamonitoring.de
+de,germany,.de,klimaservices.de
+de,germany,.de,klimaueberwachung.de
+de,germany,.de,klimaueberwachung.eu
+de,germany,.de,kliwas.de
+de,germany,.de,kmk.org
+de,germany,.de,kulturstaatsminister.de
+de,germany,.de,kunst-im-bundestag.de
+de,germany,.de,kuppel-kucker.de
+de,germany,.de,kuppel-kucker.info
+de,germany,.de,kuppel-kucker.org
+de,germany,.de,lba.de
+de,germany,.de,lebenslagen-in-deutschland.de
+de,germany,.de,leitfadeninklusion.de
+de,germany,.de,liag-hannover.de
+de,germany,.de,lohntarifpaket.de
+de,germany,.de,luftwaffe.de
+de,germany,.de,marie-elisabeth-lueders-haus.de
+de,germany,.de,mauer-mahnmal.de
+de,germany,.de,medizinwetter.eu
+de,germany,.de,mein-comeback.info
+de,germany,.de,mein-microkredit.com
+de,germany,.de,mein-microkredit.eu
+de,germany,.de,mein-mikrokredit.com
+de,germany,.de,mein-mikrokredit.eu
+de,germany,.de,mein-mikrokredit.org
+de,germany,.de,meincomeback.de
+de,germany,.de,meinmicrocredit.com
+de,germany,.de,meinmicrocredit.de
+de,germany,.de,meinmicrocredit.eu
+de,germany,.de,meinmicrokredit.de
+de,germany,.de,meinmicrokredit.org
+de,germany,.de,meinmikrocredit.com
+de,germany,.de,meinmikrocredit.de
+de,germany,.de,meinmikrocredit.eu
+de,germany,.de,meinmikrokredit.de
+de,germany,.de,met4aviation.com
+de,germany,.de,met4aviation.de
+de,germany,.de,met4aviation.eu
+de,germany,.de,met4pilot.com
+de,germany,.de,met4pilot.de
+de,germany,.de,met4pilot.eu
+de,germany,.de,meteoalarm.de
+de,germany,.de,metlis.eu
+de,germany,.de,mindestlohn-gilt.de
+de,germany,.de,mindestlohn-kommt.de
+de,germany,.de,mindestlohn-wirkt.de
+de,germany,.de,ministere-federal-des-finances.de
+de,germany,.de,mit-mischen.de
+de,germany,.de,mitmischen.tv
+de,germany,.de,mitneuemmut.de
+de,germany,.de,mks-dialog.de
+de,germany,.de,mo-ro.net
+de,germany,.de,mo-ro.org
+de,germany,.de,monitoring-esf.de
+de,germany,.de,naturgefahrenforschung.de
+de,germany,.de,netzallianz-digitales-deutschland.de
+de,germany,.de,netzallianzdeutschland.de
+de,germany,.de,netzwerk-alleinerziehende.de
+de,germany,.de,netzwerke-alleinerziehende.de
+de,germany,.de,neue-qualitaet-der-arbeit.de
+de,germany,.de,neuekulturderarbeit.de
+de,germany,.de,neues-jobcenter.de
+de,germany,.de,oberpruefungsamt.de
+de,germany,.de,ohnedichkeinwir.de
+de,germany,.de,ombudsrad.de
+de,germany,.de,ombudsrat.de
+de,germany,.de,ombudsrat.info
+de,germany,.de,ombudsrat.net
+de,germany,.de,ombudsrat.org
+de,germany,.de,orchesterversorgung.de
+de,germany,.de,orghandbuch.de
+de,germany,.de,ostseeparlamentarierkonferenz.de
+de,germany,.de,ostseeparlamentarierkonferenz2007.de
+de,germany,.de,parlaments-profi.de
+de,germany,.de,parlamentsfernsehen.de
+de,germany,.de,paul-loebe-haus.de
+de,germany,.de,pc-met.eu
+de,germany,.de,pcmet.com
+de,germany,.de,pcmet.de
+de,germany,.de,pei.de
+de,germany,.de,personalausweisportal.de
+de,germany,.de,personenstandsrecht.de
+de,germany,.de,polizei-deutschland.de
+de,germany,.de,polizei-deutschland.eu
+de,germany,.de,polizei-info.de
+de,germany,.de,polizei.de
+de,germany,.de,pollenflugvorhersage.eu
+de,germany,.de,projekt-e-demokratie.de
+de,germany,.de,projekt-persoenliches-budget.de
+de,germany,.de,psyga-check.de
+de,germany,.de,ptb.de
+de,germany,.de,punktereform.de
+de,germany,.de,radwegdeutscheeinheit.de
+de,germany,.de,raps-benchmark.de
+de,germany,.de,rccra6.org
+de,germany,.de,registerfactory.de
+de,germany,.de,reichstag.eu
+de,germany,.de,reichstagsgebaeude.de
+de,germany,.de,reichstagsgebaeude.eu
+de,germany,.de,rentenpaket.de
+de,germany,.de,rentenreformpaket.de
+de,germany,.de,rki.de
+de,germany,.de,rth-offenbach.eu
+de,germany,.de,sanitaetsdienst-bundeswehr.de
+de,germany,.de,seewis.de
+de,germany,.de,seewis.eu
+de,germany,.de,segelflugwetter.de
+de,germany,.de,segelflugwetter.eu
+de,germany,.de,selberhandeln.de
+de,germany,.de,sgb2-kennzahlen.de
+de,germany,.de,sgb2-reform.de
+de,germany,.de,sgb2.com
+de,germany,.de,sgb2.eu
+de,germany,.de,sgb2.info
+de,germany,.de,sgb2.net
+de,germany,.de,sgb2.org
+de,germany,.de,sgbii-kennzahlen.de
+de,germany,.de,sgbii.com
+de,germany,.de,sgbii.eu
+de,germany,.de,sgbii.net
+de,germany,.de,sgbii.org
+de,germany,.de,sgbzwei.com
+de,germany,.de,sgbzwei.de
+de,germany,.de,sgbzwei.eu
+de,germany,.de,sgbzwei.info
+de,germany,.de,sgbzwei.net
+de,germany,.de,sgbzwei.org
+de,germany,.de,so-klingt-europa.de
+de,germany,.de,sozialbeirat.de
+de,germany,.de,soziale-entschaedigung.de
+de,germany,.de,sozialministerium.eu
+de,germany,.de,sozialpolitische-informationen.de
+de,germany,.de,sozialversicherungswahlen.de
+de,germany,.de,sozialwahl2011.de
+de,germany,.de,stabile-finanzmaerkte.de
+de,germany,.de,stabile-haushalte.de
+de,germany,.de,stabiler-euro.de
+de,germany,.de,stw.berlin
+de,germany,.de,tagderjobcenter.de
+de,germany,.de,technisches-referendariat.de
+de,germany,.de,teilzeit-info.de
+de,germany,.de,testa-de.net
+de,germany,.de,the-unseen.org
+de,germany,.de,thuenen.de
+de,germany,.de,thw.de
+de,germany,.de,tln-mobility.eu
+de,germany,.de,trivis.de
+de,germany,.de,umweltbundesamt.de
+de,germany,.de,un-behindertenrechtskonvention.de
+de,germany,.de,un-koordinierungsstelle.de
+de,germany,.de,uniohneabi.de
+de,germany,.de,unsere-rente.com
+de,germany,.de,unsere-rente.info
+de,germany,.de,unternehmens-wert-mensch.de
+de,germany,.de,unternehmensservice-demografie.de
+de,germany,.de,unternehmensservice-demographie.de
+de,germany,.de,usd-portal.de
+de,germany,.de,uv-index.de
+de,germany,.de,uv-index.eu
+de,germany,.de,v-modell-xt.de
+de,germany,.de,vbl.de
+de,germany,.de,vereint-fuer-gemeinsame-bildung.de
+de,germany,.de,vereint-fuer-gleiche-bildung.de
+de,germany,.de,vereintaktiv.de
+de,germany,.de,verfassungsschutz.de
+de,germany,.de,verkehrsminister.de
+de,germany,.de,verkehrsministerium.de
+de,germany,.de,vertreterdesbundesinteresses.de
+de,germany,.de,verwaltungsmodernisierung.de
+de,germany,.de,verwaltungsservicezentrum.de
+de,germany,.de,vgisc.eu
+de,germany,.de,vier-punkt-null.de
+de,germany,.de,w3-indikatoren.de
+de,germany,.de,w3-wohlstandsindikatoren.de
+de,germany,.de,was-ist-gute-arbeit.de
+de,germany,.de,wdrei-indikatoren.de
+de,germany,.de,wdrei-wohlstandsindikatoren.de
+de,germany,.de,we-are-open.info
+de,germany,.de,wehrbeauftragter.de
+de,germany,.de,wettergefahren.de
+de,germany,.de,wettergefahren.eu
+de,germany,.de,wetterlexikon.eu
+de,germany,.de,wetterwarnungen.eu
+de,germany,.de,whochdrei-indikatoren.de
+de,germany,.de,whochdrei-wohlstandsindikatoren.de
+de,germany,.de,wiewerdenwirarbeiten.de
+de,germany,.de,wiewollenwirarbeiten.de
+de,germany,.de,willkommenindeutschland.info
+de,germany,.de,wsv.de
+de,germany,.de,wwwbund.de
+de,germany,.de,xenos-de.de
+de,germany,.de,xn--allianz-fr-arbeitskrfte-f8b20d.de
+de,germany,.de,xn--allianz-fr-fachkrfte-rzb33c.de
+de,germany,.de,xn--beschftigtebeteiligen-91b.de
+de,germany,.de,xn--beschftigung-gestalten-44b.de
+de,germany,.de,xn--einsatzfrarbeit-6vb.de
+de,germany,.de,xn--fachkrfte-allianz-vqb.de
+de,germany,.de,xn--fachkrfteoffensive-qtb.de
+de,germany,.de,xn--fachkrftewoche-bib.de
+de,germany,.de,xn--frdern-und-fordern-d3b.info
+de,germany,.de,xn--freinlebenswertesland-8hc.de
+de,germany,.de,xn--initiative-fr-fachkraefte-qwc.de
+de,germany,.de,xn--initiative-fr-fachkrfte-f8b50d.de
+de,germany,.de,xn--io-warnemnde-llb.de
+de,germany,.de,xn--sicher-selbstndig-2qb.de
+de,germany,.de,xn--vereint-fr-gemeinsame-bildung-tbd.de
+de,germany,.de,xn--vereint-fr-gleiche-bildung-6zc.de
+de,germany,.de,yes-we-are-open.info
+de,germany,.de,yesweareopen.de
+de,germany,.de,zehnte-ddr-volkskammer.de
+de,germany,.de,zielvereinbarungsregister.de
+de,germany,.de,zivildienst.de
+de,germany,.de,zoll.de
+de,germany,.de,zukunftbreitband.de
+de,germany,.de,zuwes.de
+de,germany,.de,baden-wuerttemberg.de
+de,germany,.de,bayern.de
+de,germany,.de,berlin.de
+de,germany,.de,brandenburg.de
+de,germany,.de,bremen.de
+de,germany,.de,govdata.de
+de,germany,.de,hamburg.de
+de,germany,.de,hessen.de
+de,germany,.de,niedersachsen.de
+de,germany,.de,regierung-mv.de
+de,germany,.de,nrw.de
+de,germany,.de,rlp.de
+de,germany,.de,saarland.de
+de,germany,.de,sachsen.de
+de,germany,.de,sachsen-anhalt.de
+de,germany,.de,schleswig-holstein.de
+de,germany,.de,thueringen.de
 dj,djibouti,.dj,gouv.dj
+dj,djibouti,.dj,presidence.dj
+dk,denmark,.dk,regeringen.dk
 dm,dominica,.dm,gov.dm
+dm,dominica,.dm,dominica.gov.dm
+dm,dominica,.dm,dominode.dm
+do,dominican republic,.do,gov.do
+do,dominican republic,.do,mil.do
+do,dominican republic,.do,museodelartemodernosd.com
+do,dominican republic,.do,itsc.edu.do
+do,dominican republic,.do,isfodosu.edu.do
+do,dominican republic,.do,itla.edu.do
+do,dominican republic,.do,uasd.edu.do
 do,dominican republic,.do,gob.do
+do,dominican republic,.do,dominicana.gob.do
+do,dominican republic,.do,datos.gob.do
 dz,algeria,.dz,gov.dz
+dz,algeria,.dz,el-mouradia.dz
+ec,ecuador,.ec,astinave.com.ec
+ec,ecuador,.ec,flopec.com.ec
+ec,ecuador,.ec,mil.ec
 ec,ecuador,.ec,gob.ec
+ec,ecuador,.ec,presidencia.gob.ec
 ee,estonia,.ee,gov.ee
+ee,estonia,.ee,valitsus.ee
+ee,estonia,.ee,e-estonia.com
 eg,egypt,.eg,gov.eg
+eg,egypt,.eg,gov.org
 er,eritrea,.er,gov.er
+er,eritrea,.er,shabait.com
 es,spain,.es,gob.es
+es,spain,.es,administracion.gob.es
+es,spain,.es,transparencia.gob.es
 et,ethiopia,.et,gov.et
+et,ethiopia,.et,ethiopia.gov.et
+et,ethiopia,.et,data.gov.et
 eu,european union,.eu,europa.eu
+fi,finland,.fi,suomi.fi
 fj,fiji,.fj,gov.fj
+fj,fiji,.fj,fiji.gov.fj
 fk,falkland islands,.fk,gov.fk
 fm,micronesia,.fm,gov.fm
 fo,faroe islands,.fo,government.fo
+fr,france,.fr,iledefrance.fr
+fr,france,.fr,auvergnerhonealpes.fr
+fr,france,.fr,nouvelleaquitaine.fr
+fr,france,.fr,occitanie.fr
+fr,france,.fr,hauts-de-france.fr
+fr,france,.fr,grandest.fr
+fr,france,.fr,paysdelaloire.fr
+fr,france,.fr,bretagne.bzh
+fr,france,.fr,normandie.fr
+fr,france,.fr,bourgognefranchecomte.fr
+fr,france,.fr,centrevaldeloire.fr
+fr,france,.fr,provencealpescotedazur.fr
+fr,france,.fr,corse.fr
+fr,france,.fr,banque-france.fr
+fr,france,.fr,amf-france.org
+fr,france,.fr,acpr.banque-france.fr
+fr,france,.fr,impots.gouv.fr
+fr,france,.fr,tresor.economie.gouv.fr
+fr,france,.fr,dgfip.finances.gouv.fr
+fr,france,.fr,insee.fr
+fr,france,.fr,autorite-concurrence.fr
+fr,france,.fr,courdecassation.fr
+fr,france,.fr,conseil-etat.fr
+fr,france,.fr,conseil-constitutionnel.fr
+fr,france,.fr,ccomptes.fr
+fr,france,.fr,haute-autorite.fr
+fr,france,.fr,cncdh.fr
+fr,france,.fr,pompiers.fr
+fr,france,.fr,anssi.fr
+fr,france,.fr,irsem.fr
+fr,france,.fr,ihedn.fr
+fr,france,.fr,service-public.fr
+fr,france,.fr,elysee.fr
+fr,france,.fr,gouvernement.fr
+fr,france,.fr,assemblee-nationale.fr
+fr,france,.fr,senat.fr
 fr,france,.fr,gouv.fr
+fr,france,.fr,data.gouv.fr
 ga,gabon,.ga,gouv.ga
+ga,gabon,.ga,gouvernement.ga
+gb,united kingdom,.gb,sentencingcouncil.org.uk
+gb,united kingdom,.gb,supremecourt.uk
+gb,united kingdom,.gb,iopc.org.uk
+gb,united kingdom,.gb,ukri.org
+gb,united kingdom,.gb,privy-council.org.uk
+gb,united kingdom,.gb,royal.uk
 gb,united kingdom,.gb,gov.uk
 gb,united kingdom,.gb,nhs.uk
 gb,united kingdom,.gb,mod.uk
 gb,united kingdom,.gb,parliament.uk
 gb,united kingdom,.gb,police.uk
 gb,united kingdom,.gb,judiciary.uk
+gcc,gulf cooperation council,.org,gcc-sg.org
 gd,grenada,.gd,gov.gd
+ge,georgia,.ge,rgpf.gd
 ge,georgia,.ge,gov.ge
 gf,french guiana,.gf,ctguyane.fr
 gg,guernsey,.gg,gov.gg
 gh,ghana,.gh,gov.gh
+gh,ghana,.gh,ghana.gov.gh
+gh,ghana,.gh,eservices.gov.gh
+gh,ghana,.gh,data.gov.gh
 gi,gibraltar,.gi,gov.gi
 gl,greenland,.gl,naalakkersuisut.gl
 gl,greenland,.gl,inatsisartut.gl
@@ -173,84 +1550,361 @@ gl,greenland,.gl,uni.gl
 gl,greenland,.gl,us.gl
 gl,greenland,.gl,uvangut.gl
 gl,greenland,.gl,vet.gl
-gl,greenland,.gl,nanoq.gl
 gm,gambia,.gm,gov.gm
+gm,gambia,.gm,statehouse.gm
 gn,guinea,.gn,gov.gn
+gn,guinea,.gn,gouvernement.gov.gn
 gp,guadeloupe,.gp,region-guadeloupe.fr
 gq,equatorial guinea,.gq,gob.gq
+gq,equatorial guinea,.gq,guineaecuatorialpress.com
 gr,greece,.gr,gov.gr
+gr,greece,.gr,ermis.gov.gr
+gr,greece,.gr,data.gov.gr
+gt,guatemala,.gt,mil.gt
 gt,guatemala,.gt,gob.gt
+gt,guatemala,.gt,presidencia.gob.gt
 gu,guam,.gu,gov.gu
+gw,guinea-bissau,.gw,gov.gw
+gy,guyana,.gy,ndcguyana.org.gy
+gy,guyana,.gy,gwi.gy
+gy,guyana,.gy,cheddiguyana.org
+gy,guyana,.gy,elections.org.gy
 gy,guyana,.gy,gov.gy
+gy,guyana,.gy,gina.gov.gy
 hk,hong kong,.hk,gov.hk
+hn,honduras,.hn,enee.hn
+hn,honduras,.hn,sanaa.hn
+hn,honduras,.hn,hondutel.hn
+hn,honduras,.hn,conadeh.hn
+hn,honduras,.hn,mil.hn
+hn,honduras,.hn,rnp.hn
+hn,honduras,.hn,inp.hn
+hn,honduras,.hn,tse.hn
+hn,honduras,.hn,congresonacional.hn
 hn,honduras,.hn,gob.hn
+hn,honduras,.hn,presidencia.gob.hn
 hr,croatia,.hr,gov.hr
+hr,croatia,.hr,vlada.hr
+ht,haiti,.ht,edh.ht
+ht,haiti,.ht,natcom.com.ht
+ht,haiti,.ht,onapha.ht
+ht,haiti,.ht,pnh.ht
+ht,haiti,.ht,ihsi.ht
+ht,haiti,.ht,cep.ht
 ht,haiti,.ht,gouv.ht
+ht,haiti,.ht,primature.gouv.ht
 hu,hungary,.hu,gov.hu
+hu,hungary,.hu,magyarorszag.hu
+id,indonesia,.id,bri.co.id
+id,indonesia,.id,bni.co.id
+id,indonesia,.id,mandiribank.co.id
+id,indonesia,.id,btn.co.id
+id,indonesia,.id,bsi.co.id
+id,indonesia,.id,garuda-indonesia.com
+id,indonesia,.id,pelni.co.id
+id,indonesia,.id,ptkai.co.id
+id,indonesia,.id,angkasapura1.co.id
+id,indonesia,.id,angkasapura2.co.id
+id,indonesia,.id,pelindo.co.id
+id,indonesia,.id,telkom.co.id
+id,indonesia,.id,telkomsel.com
+id,indonesia,.id,indihome.co.id
+id,indonesia,.id,pos.co.id
+id,indonesia,.id,pegadaian.co.id
+id,indonesia,.id,bpjs-kesehatan.go.id
+id,indonesia,.id,bpjsketenagakerjaan.go.id
+id,indonesia,.id,taspen.co.id
+id,indonesia,.id,asabri.co.id
+id,indonesia,.id,jasa-marga.co.id
+id,indonesia,.id,waskita.co.id
+id,indonesia,.id,wijayakarya.co.id
+id,indonesia,.id,hutama-karya.com
+id,indonesia,.id,antam.com
+id,indonesia,.id,inalum.id
+id,indonesia,.id,timah.com
+id,indonesia,.id,freeportindonesia.co.id
+id,indonesia,.id,vale.co.id
+id,indonesia,.id,pertamina.com
+id,indonesia,.id,pln.co.id
+id,indonesia,.id,pgn.co.id
+id,indonesia,.id,ptba.co.id
+id,indonesia,.id,elnusa.co.id
+id,indonesia,.id,pupukkaltim.com
+id,indonesia,.id,petrokimia-gresik.com
+id,indonesia,.id,bukit-asam.co.id
+id,indonesia,.id,ac.id
+id,indonesia,.id,mil.id
+id,indonesia,.id,idx.co.id
+id,indonesia,.id,ksei.co.id
+id,indonesia,.id,kpei.co.id
 id,indonesia,.id,go.id
+id,indonesia,.id,indonesia.go.id
+id,indonesia,.id,data.go.id
 ie,ireland,.ie,gov.ie
+ie,ireland,.ie,www.gov.ie
+il,israel,.il,inss.org.il
+il,israel,.il,besa.org.il
+il,israel,.il,idi.org.il
+il,israel,.il,jcpa.org
+il,israel,.il,acri.org.il
+il,israel,.il,muni.il
+il,israel,.il,boi.org.il
+il,israel,.il,tase.co.il
+il,israel,.il,rafael.co.il
+il,israel,.il,imi-systems.com
+il,israel,.il,idf.il
 il,israel,.il,gov.il
 im,isle of man,.im,gov.im
+imf,international monetary fund,.org,imf.org
 in,india,.in,gov.in
 in,india,.in,nic.in
 in,india,.in,mil.in
+in,india,.in,india.gov.in
+in,india,.in,data.gov.in
+interpol,interpol,.org,interpol.int
+iq,iraq,.iq,pmo.iq
+iq,iraq,.iq,cabinet.iq
+ir,iran,.ir,parliament.iq
+iq,iraq,.iq,presidency.iq
+iq,iraq,.iq,krg.org
+ir,iran,.ir,jna.iq
+iq,iraq,.iq,iraqiairforce.iq
+iq,iraq,.iq,iraqinavy.iq
+ir,iran,.ir,cts.iq
+iq,iraq,.iq,pmu.iq
+iq,iraq,.iq,peshmerga.net
+iq,iraq,.iq,falconint.iq
+ir,iran,.ir,federalpolice.iq
+iq,iraq,.iq,borderforces.iq
+iq,iraq,.iq,hjc.iq
+ir,iran,.ir,iraqfsc.iq
+iq,iraq,.iq,cbi.iq
+iq,iraq,.iq,isx-iq.net
+ir,iran,.ir,cmc.iq
+iq,iraq,.iq,gov.krd
+iq,iraq,.iq,parliament.krd
+ir,iran,.ir,gov.krd
 iq,iraq,.iq,gov.iq
 ir,iran,.ir,gov.ir
+ir,iran (islamic republic of),.ir,iran.gov.ir
+is,iceland,.is,government.is
 it,italy,.it,governo.it
+it,italy,.it,formez.it
+it,italy,.it,magellanopa.it
+it,italy,.it,dati.gov.it
 je,jersey,.je,gov.je
+jm,jamaica,.jm,nwc.com.jm
+jm,jamaica,.jm,jps.com.jm
+jm,jamaica,.jm,petrojam.com
+jm,jamaica,.jm,aaj.com.jm
+jm,jamaica,.jm,montegobay.org.jm
+jm,jamaica,.jm,mil.jm
+jm,jamaica,.jm,odpem.org.jm
+jm,jamaica,.jm,eoj.com.jm
 jm,jamaica,.jm,gov.jm
+jm,jamaica,.jm,jis.gov.jm
 jo,jordan,.jo,gov.jo
+jo,jordan,.jo,jordan.gov.jo
+jp,japan,.jp,jpx.co.jp
+jp,japan,.jp,boj.or.jp
 jp,japan,.jp,go.jp
 jp,japan,.jp,lg.jp
+jp,japan,.jp,e-gov.go.jp
+jp,japan,.jp,data.go.jp
 ke,kenya,.ke,go.ke
+ke,kenya,.ke,mygov.go.ke
+ke,kenya,.ke,hudumakenya.go.ke
+ke,kenya,.ke,opendata.go.ke
 kg,kyrgyzstan,.kg,gov.kg
+kg,kyrgyzstan,.kg,www.gov.kg
 kh,cambodia,.kh,gov.kh
+kh,cambodia,.kh,cdc-crdb.gov.kh
 ki,kiribati,.ki,gov.ki
 km,comoros,.km,gouv.km
+km,comoros,.km,gouvernement.km
+kn,saint kitts and nevis,.kn,rscnpf.com
+kn,saint kitts and nevis,.kn,skncustoms.com
 kn,saint kitts and nevis,.kn,gov.kn
+kn,saint kitts and nevis,.kn,www.gov.kn
+kp,north korea,.kp,naenara.com.kp
+kp,north korea,.kp,dprkportal.kp
+kp,north korea,.kp,rep.kp
+kp,north korea,.kp,mfa.gov.kp
+kp,north korea,.kp,ma.gov.kp
+kp,north korea,.kp,nta.gov.kp
+kp,north korea,.kp,tourismdprk.gov.kp
+kp,north korea,.kp,moph.gov.kp
+kp,north korea,.kp,fia.law.kp
+kp,north korea,.kp,mirae.aca.kp
+kp,north korea,.kp,kcna.kp
+kp,north korea,.kp,rodong.rep.kp
+kp,north korea,.kp,vok.rep.kp
+kp,north korea,.kp,gnu.rep.kp
+kp,north korea,.kp,minzu.rep.kp
+kp,north korea,.kp,youth.rep.kp
+kp,north korea,.kp,pyongyangtimes.com.kp
+kp,north korea,.kp,mediaryugyong.com.kp
+kp,north korea,.kp,korean-books.com.kp
+kp,north korea,.kp,ryongnamsan.edu.kp
+kp,north korea,.kp,kut.edu.kp
+kp,north korea,.kp,star.edu.kp
+kp,north korea,.kp,gpsh.edu.kp
+kp,north korea,.kp,pulbora.edu.kp
+kp,north korea,.kp,ryomyong.edu.kp
+kp,north korea,.kp,kftrade.com.kp
+kp,north korea,.kp,manmulsang.com.kp
+kp,north korea,.kp,knic.com.kp
+kp,north korea,.kp,samhae.com.kp
+kp,north korea,.kp,polestar.com.kp
+kp,north korea,.kp,futurere.com.kp
+kp,north korea,.kp,silibank.net.kp
+kp,north korea,.kp,korea-dpr.com
+kp,north korea,.kp,chongryon.com
+kp,north korea,.kp,ournation-school.com
+kp,north korea,.kp,kkfonline.com
+kp,north korea,.kp,tour-kumgangsan.com
+kp,north korea,.kp,pyongsu.com
+kp,north korea,.kp,pyeonghwamotors.com
+kp,north korea,.kp,naenara.inf.kp
+kp,north korea,.kp,osandok.inf.kp
+kp,north korea,.kp,osd.inf.kp
+kp,north korea,.kp,chongbong.inf.kp
+kp,north korea,.kp,kcn.inf.kp
+kp,north korea,.kp,inditechlab.com
+kp,north korea,.kp,tonywangtech.com
+kp,north korea,.kp,wkjllc.com
+kp,north korea,.kp,hopanatech.com
+kp,north korea,.kp,kiyctc.com.kp
+kp,north korea,.kp,airkoryo.com.kp
+kp,north korea,.kp,masikryong.com.kp
+kp,north korea,.kp,kcna.co.jp
+kp,north korea,.kp,uriminzokkiri.com
+kp,north korea,.kp,dprktoday.com
+kp,north korea,.kp,arirangmeari.com
+kp,north korea,.kp,tongilvoice.com
+kp,north korea,.kp,sogwang.com
+kp,north korea,.kp,ryomyong.com
+kp,north korea,.kp,minjok.com
+kp,north korea,.kp,chosonsinbo.com
+kp,north korea,.kp,dprkmedia.com
 kp,north korea,.kp,gov.kp
+kr,south korea,.kr,nhrck.or.kr
+kr,south korea,.kr,kisa.or.kr
+kr,south korea,.kr,add.re.kr
+kr,south korea,.kr,kida.re.kr
+kr,south korea,.kr,gov.kr
+kr,south korea,.kr,mil.kr
 kr,south korea,.kr,go.kr
+kw,kuwait,.kw,kifund.org
+kw,kuwait,.kw,kpc.com.kw
+kw,kuwait,.kw,kls.org.kw
+kw,kuwait,.kw,edu.kw
+kw,kuwait,.kw,kna.kw
 kw,kuwait,.kw,gov.kw
+ky,cayman islands,.ky,rcips.ky
+ky,cayman islands,.ky,ciipa.ky
+ky,cayman islands,.ky,cima.ky
 ky,cayman islands,.ky,gov.ky
 kz,kazakhstan,.kz,gov.kz
+kz,kazakhstan,.kz,government.kz
+kz,kazakhstan,.kz,egov.kz
+la,laos,.la,laogov.gov.la
 la,laos,.la,gov.la
 lb,lebanon,.lb,gov.lb
+lb,lebanon,.lb,dawlati.gov.lb
+lc,saint lucia,.lc,rslpf.com
+lc,saint lucia,.lc,stluciancustoms.org
+lc,saint lucia,.lc,eccb-centralbank.org
+lc,saint lucia,.lc,gov.lc
 lc,saint lucia,.lc,govt.lc
+li,liechtenstein,.li,regierung.li
 lk,sri lanka,.lk,gov.lk
+lk,sri lanka,.lk,www.gov.lk
+lk,sri lanka,.lk,data.gov.lk
 lr,liberia,.lr,gov.lr
+lr,liberia,.lr,eliberia.gov.lr
 ls,lesotho,.ls,gov.ls
+ls,lesotho,.ls,www.gov.ls
 lt,lithuania,.lt,lrv.lt
+lt,lithuania,.lt,eviesiejipirkimai.lt
 lu,luxembourg,.lu,public.lu
+lu,luxembourg,.lu,gouvernement.lu
 lv,latvia,.lv,gov.lv
+lv,latvia,.lv,latvija.lv
 ly,libya,.ly,gov.ly
+ly,libya,.ly,pm.gov.ly
 ma,morocco,.ma,gov.ma
+ma,morocco,.ma,egov.ma
+ma,morocco,.ma,data.gov.ma
 mc,monaco,.mc,gouv.mc
 md,moldova,.md,gov.md
 me,montenegro,.me,gov.me
+me,montenegro,.me,www.gov.me
 mf,saint martin french part,.mf,com-saint-martin.fr
+mf,saint martin french part,.mf,comstbarth.fr
 mg,madagascar,.mg,gov.mg
+mg,madagascar,.mg,presidence.gov.mg
 mh,marshall islands,.mh,gov.mh
+mh,marshall islands,.mh,rmiembassyus.org
 mk,north macedonia,.mk,gov.mk
+mk,the former yugoslav republic of macedonia,.mk,vlada.mk
+mk,the former yugoslav republic of macedonia,.mk,otvorenipodatoci.gov.mk
 ml,mali,.ml,gouv.ml
+ml,mali,.ml,www.gouv.ml
 mm,myanmar,.mm,gov.mm
+mm,myanmar,.mm,president-office.gov.mm
 mn,mongolia,.mn,gov.mn
+mn,mongolia,.mn,zasag.mn
 mo,macao,.mo,gov.mo
 mp,northern mariana islands,.mp,gov.mp
 mq,martinique,.mq,collectivitedemartinique.fr
 mr,mauritania,.mr,gov.mr
+mr,mauritania,.mr,martinique.gouv.fr
 ms,montserrat,.ms,gov.ms
 mt,malta,.mt,gov.mt
 mu,mauritius,.mu,govmu.org
 mv,maldives,.mv,gov.mv
+mv,maldives,.mv,egov.mv
 mw,malawi,.mw,gov.mw
+mw,malawi,.mw,malawi.gov.mw
+mx,mexico,.mx,cenapred.unam.mx
+mx,mexico,.mx,agn.gob.mx
+mx,mexico,.mx,conadic.salud.gob.mx
+mx,mexico,.mx,censida.salud.gob.mx
+mx,mexico,.mx,prospera.gob.mx
+mx,mexico,.mx,fonacot.gob.mx
+mx,mexico,.mx,compranet.funcionpublica.gob.mx
+mx,mexico,.mx,declaranet.gob.mx
+mx,mexico,.mx,llave.gob.mx
+mx,mexico,.mx,plataformadigitalnacional.org
+mx,mexico,.mx,proyectosmexico.gob.mx
+mx,mexico,.mx,mexicoabierto.gob.mx
+mx,mexico,.mx,normateca.gob.mx
+mx,mexico,.mx,plataformadetransparencia.org.mx
+mx,mexico,.mx,conapred.org.mx
+mx,mexico,.mx,ine.mx
+mx,mexico,.mx,inegi.org.mx
+mx,mexico,.mx,cndh.org.mx
+mx,mexico,.mx,banxico.org.mx
+mx,mexico,.mx,coneval.org.mx
+mx,mexico,.mx,inai.org.mx
+mx,mexico,.mx,ift.org.mx
 mx,mexico,.mx,gob.mx
+mx,mexico,.mx,www.gob.mx
+mx,mexico,.mx,infonavit.org.mx
+mx,mexico,.mx,tecdmx.org.mx
 my,malaysia,.my,gov.my
 mz,mozambique,.mz,gov.mz
+mz,mozambique,.mz,portaldogoverno.gov.mz
 na,namibia,.na,gov.na
+na,namibia,.na,www.gov.na
+nato,north atlantic treaty organization,.org,nato.int
 nc,new caledonia,.nc,gouv.nc
 ne,niger,.ne,gouv.ne
 nf,norfolk island,.nf,gov.nf
 ng,nigeria,.ng,gov.ng
+ng,nigeria,.ng,nigeria.gov.ng
+,,,mil.ni
 ni,nicaragua,.ni,gob.ni
 nl,netherlands,.nl,overheid.nl
 nl,netherlands,.nl,tweedekamer.nl
@@ -267,128 +1921,327 @@ no,norway,.no,lovdata.no
 no,norway,.no,ud.no
 no,norway,.no,forsvar.no
 no,norway,.no,stortinget.no
+no,norway,.no,norge.no
 np,nepal,.np,gov.np
+np,nepal,.np,nepal.gov.np
 nr,nauru,.nr,gov.nr
+nr,nauru,.nr,naurugov.nr
 nu,niue,.nu,gov.nu
 nz,new zealand,.nz,govt.nz
 nz,new zealand,.nz,parliament.nz
 nz,new zealand,.nz,mil.nz
+nz,new zealand,.nz,www.govt.nz
+nz,new zealand,.nz,data.govt.nz
+oas,organization of american states,.org,oas.org
+oecd,oecd,.org,oecd.org
 om,oman,.om,gov.om
+om,oman,.om,oman.om
+om,oman,.om,data.gov.om
+org,micronesia (federated states of),.org,fsmgov.org
+osce,osce,.org,osce.org
 pa,panama,.pa,gob.pa
+pa,panama,.pa,presidencia.gob.pa
+pe,peru,.pe,petroperu.com.pe
+pe,peru,.pe,sedapal.com.pe
+pe,peru,.pe,serpost.com.pe
+pe,peru,.pe,mil.pe
 pe,peru,.pe,gob.pe
+pe,peru,.pe,peru.gob.pe
+pe,peru,.pe,serviciosalciudadano.gob.pe
+pe,peru,.pe,sima.com.pe
+pe,peru,.pe,electroperu.com.pe
 pf,french polynesia,.pf,gov.pf
 pg,papua new guinea,.pg,gov.pg
+pg,papua new guinea,.pg,pm.gov.pg
+pg,papua new guinea,.pg,parliament.gov.pg
 ph,philippines,.ph,gov.ph
+ph,philippines,.ph,www.gov.ph
+ph,philippines,.ph,data.gov.ph
 pk,pakistan,.pk,gov.pk
+pk,pakistan,.pk,pakistan.gov.pk
 pl,poland,.pl,gov.pl
+pl,poland,.pl,www.gov.pl
+pl,poland,.pl,danepubliczne.gov.pl
 pm,saint pierre and miquelon,.pm,collectivite-saint-pierre-et-miquelon.fr
 pn,pitcairn,.pn,gov.pn
 pr,puerto rico,.pr,pr.gov
+pr,puerto rico,.pr,tribunalpr.org
+pr,puerto rico,.pr,ceepr.org
+pr,puerto rico,.pr,aeepr.com
 ps,palestine,.ps,gov.ps
 pt,portugal,.pt,gov.pt
+pt,portugal,.pt,portugal.gov.pt
+pt,portugal,.pt,dados.gov.pt
 pw,palau,.pw,gov.pw
+pw,palau,.pw,palaugov.pw
+py,paraguay,.py,mil.py
 py,paraguay,.py,gov.py
+py,paraguay,.py,essap.com.py
+py,paraguay,.py,copaco.com.py
 qa,qatar,.qa,gov.qa
+qa,qatar,.qa,kahramaa.com.qa
+qa,qatar,.qa,mil.qa
+qa,qatar,.qa,qcert.org
+qa,qatar,.qa,nhrc.org.qa
+qa,qatar,.qa,qfma.org.qa
+qa,qatar,.qa,qe.com.qa
+qa,qatar,.qa,qfc.qa
+qa,qatar,.qa,qia.qa
+qa,qatar,.qa,qatarenergy.qa
+qa,qatar,.qa,qatarfoundation.org
+qa,qatar,.qa,qm.org.qa
+qa,qatar,.qa,diar.qa
+qa,qatar,.qa,nebras.com.qa
 re,reunion,.re,region-reunion.fr
 ro,romania,.ro,gov.ro
 rs,serbia,.rs,gov.rs
+rs,serbia,.rs,srbija.gov.rs
 ru,russia,.ru,gov.ru
+ru,russia,.ru,kremlin.ru
+ru,russia,.ru,government.ru
+ru,russia,.ru,mid.ru
+ru,russia,.ru,mil.ru
+ru,russia,.ru,mvd.ru
+ru,russia,.ru,mkrf.ru
+ru,russia,.ru,fsb.ru
+ru,russia,.ru,fsvng.ru
+ru,russia,.ru,sledcom.ru
+ru,russia,.ru,ksrf.ru
+ru,russia,.ru,supcourt.ru
+ru,russia,.ru,arbitr.ru
+ru,russia,.ru,cikrf.ru
+ru,russia,.ru,ombudsmanrf.org
+ru,russia,.ru,cdep.ru
+ru,russia,.ru,cbr.ru
+ru,russia,.ru,fns.ru
+ru,russia,.ru,rospotrebnadzor.ru
+ru,russia,.ru,rosatom.ru
+ru,russia,.ru,roscosmos.ru
+ru,russia,.ru,rostec.ru
+ru,russia,.ru,vnesheconombank.ru
+ru,russia,.ru,rusnano.com
+ru,russia,.ru,dom.rf
+ru,russia,.ru,rosgeologia.ru
+ru,russia,.ru,alrosa.ru
+ru,russia,.ru,mos.ru
+ru,russia,.ru,gov.spb.ru
+ru,russia,.ru,mosreg.ru
+ru,russia,.ru,tatarstan.ru
+ru,russia,.ru,bashkortostan.ru
+ru,russia,.ru,admkrai.krasnodar.ru
+ru,russia,.ru,ingushetia.ru
+ru,russia,.ru,kbr.ru
+ru,russia,.ru,kchr.ru
+ru,russia,.ru,adygea.ru
+ru,russia,.ru,altai-republic.ru
+ru,russia,.ru,buryatia.ru
+ru,russia,.ru,kalmregion.ru
+ru,russia,.ru,gov.karelia.ru
+ru,russia,.ru,komi.ru
+ru,russia,.ru,khakassia.ru
+ru,russia,.ru,udmurt.ru
+ru,russia,.ru,chuvash.ru
+ru,russia,.ru,altairegion22.ru
+ru,russia,.ru,zabtrans.ru
+ru,russia,.ru,permkrai.ru
+ru,russia,.ru,primorsky.ru
+ru,russia,.ru,stavkray.ru
+ru,russia,.ru,khabkrai.ru
+ru,russia,.ru,lenobl.ru
+ru,russia,.ru,samregion.ru
+ru,russia,.ru,nso.ru
+ru,russia,.ru,eao.ru
+ru,russia,.ru,admhmao.ru
+ru,russia,.ru,russianembassy.org
+ru,russia,.ru,rusemb.org.uk
+ru,russia,.ru,russianembassy.net
+ru,russia,.ru,france.mid.ru
+ru,russia,.ru,germany.mid.ru
+ru,russia,.ru,china.mid.ru
+ru,russia,.ru,japan.mid.ru
+ru,russia,.ru,india.mid.ru
+ru,russia,.ru,brazil.mid.ru
+ru,russia,.ru,turkey.mid.ru
 rw,rwanda,.rw,gov.rw
+rw,rwanda,.rw,rgb.rw
+rw,rwanda,.rw,bnr.rw
+rw,rwanda,.rw,cma.rw
+rw,rwanda,.rw,rura.rw
+rw,rwanda,.rw,rwfa.rw
+rw,rwanda,.rw,rssb.rw
+rw,rwanda,.rw,reg.rw
+rw,rwanda,.rw,wasac.rw
+rw,rwanda,.rw,eucl.reg.rw
+rw,rwanda,.rw,edcl.reg.rw
+rw,rwanda,.rw,irembo.com
+rw,rwanda,.rw,rdf.rw
 sa,saudi arabia,.sa,gov.sa
+sa,saudi arabia,.sa,edu.sa
+sa,saudi arabia,.sa,sami.com.sa
+sa,saudi arabia,.sa,nshr.org.sa
+sa,saudi arabia,.sa,cma.org.sa
+sa,saudi arabia,.sa,aramco.com
+sa,saudi arabia,.sa,sabic.com
+sa,saudi arabia,.sa,maaden.com.sa
+sa,saudi arabia,.sa,stc.com.sa
+sa,saudi arabia,.sa,pif.gov.sa
+sa,saudi arabia,.sa,acwa.com.sa
+sa,saudi arabia,.sa,snb.com.sa
+sa,saudi arabia,.sa,safcsp.org.sa
 sb,solomon islands,.sb,gov.sb
+sb,solomon islands,.sb,parliament.gov.sb
 sc,seychelles,.sc,gov.sc
+sc,seychelles,.sc,egov.sc
 sd,sudan,.sd,gov.sd
+sd,sudan,.sd,esudan.gov.sd
 se,sweden,.se,regeringen.se
 se,sweden,.se,riksdagen.se
 sg,singapore,.sg,gov.sg
+sg,singapore,.sg,www.gov.sg
+sg,singapore,.sg,data.gov.sg
 sh,saint helena,.sh,gov.sh
 si,slovenia,.si,gov.si
+si,slovenia,.si,vlada.si
 sj,svalbard and jan mayen,.sj,sysselmannen.no
 sk,slovakia,.sk,gov.sk
+sk,slovakia,.sk,slovensko.sk
 sl,sierra leone,.sl,gov.sl
+sl,sierra leone,.sl,opendata.gov.sl
 sm,san marino,.sm,gov.sm
+sm,san marino,.sm,sanmarino.sm
 sn,senegal,.sn,gouv.sn
+sn,senegal,.sn,sec.gouv.sn
 so,somalia,.so,gov.so
+so,somalia,.so,opm.gov.so
 sr,suriname,.sr,gov.sr
 ss,south sudan,.ss,gov.ss
+ss,south sudan,.ss,goss-online.org
 st,sao tome and principe,.st,gov.st
+st,sao tome and principe,.st,parlamento.st
+sv,el salvador,.sv,mil.sv
 sv,el salvador,.sv,gob.sv
+sv,el salvador,.sv,asamblea.gob.sv
+sv,el salvador,.sv,gobiernoabierto.gob.sv
 sx,sint maarten,.sx,gov.sx
 sy,syria,.sy,gov.sy
+sy,syria,.sy,egov.sy
 sz,eswatini,.sz,gov.sz
 tc,turks and caicos islands,.tc,gov.tc
 td,chad,.td,gouv.td
+td,chad,.td,gouvernement.td
 tf,french southern territories,.tf,taaf.fr
 tg,togo,.tg,gouv.tg
+tg,togo,.tg,togo.tg
 th,thailand,.th,go.th
+th,thailand,.th,thaigov.go.th
+th,thailand,.th,data.go.th
 tj,tajikistan,.tj,gov.tj
+tj,tajikistan,.tj,president.tj
 tl,timor-leste,.tl,gov.tl
+tl,timor-leste,.tl,timor-leste.gov.tl
+tl,timor-leste,.tl,transparency.gov.tl
+tl,timor-leste,.tl,eprocurement.gov.tl
 tm,turkmenistan,.tm,gov.tm
+tm,turkmenistan,.tm,turkmenistan.gov.tm
 tn,tunisia,.tn,gov.tn
+tn,tunisia,.tn,tunisie.gov.tn
+tn,tunisia,.tn,data.gov.tn
 to,tonga,.to,gov.to
+to,tonga,.to,tongaportal.gov.to
+tr,turkey,.tr,turkiye.gov.tr
 tr,turkiye,.tr,gov.tr
 tr,turkiye,.tr,tsk.tr
 tr,turkiye,.tr,bel.tr
 tr,turkiye,.tr,pol.tr
+tr,turkey,.tr,tsk.tr
+tr,turkiye,.tr,kkk.tsk.tr
+tr,turkiye,.tr,dzkk.tsk.tr
+tr,turkiye,.tr,hvkk.tsk.tr
+tr,turkey,.tr,sgk.tsk.tr
+tr,turkiye,.tr,tskgv.org.tr
+tr,turkiye,.tr,hfrm.tsk.tr
+tr,turkiye,.tr,tbb.org.tr
 tt,trinidad and tobago,.tt,gov.tt
 tt,trinidad and tobago,.tt,mil.tt
+tt,trinidad and tobago,.tt,ttconnect.gov.tt
 tv,tuvalu,.tv,gov.tv
+tv,tuvalu,.tv,tuvaluislands.com
 tw,taiwan,.tw,gov.tw
 tz,tanzania,.tz,go.tz
+tz,tanzania,.tz,tanzania.go.tz
+tz,tanzania,.tz,opendata.go.tz
 ua,ukraine,.ua,gov.ua
+ua,ukraine,.ua,kmu.gov.ua
+ua,ukraine,.ua,data.gov.ua
 ug,uganda,.ug,go.ug
-un,united nations,.org,un.org
-un,world health organization,.org,who.int
-un,international labour organization,.org,ilo.org
+ug,uganda,.ug,gou.go.ug
+uk,united kingdom of great britain and northern ireland,.uk,www.gov.uk
+uk,united kingdom of great britain and northern ireland,.uk,data.gov.uk
 un,food and agriculture organization,.org,fao.org
+un,international labour organization,.org,ilo.org
+un,international maritime organization,.org,imo.org
+un,intl atomic energy agency,.org,iaea.org
+un,intl civil aviation organization,.org,icao.int
+un,intl court of justice,.org,icj-cij.org
+un,intl criminal court,.org,icc-cpi.int
+un,intl telecommunication union,.org,itu.int
+un,opcw,.org,opcw.org
+un,un development programme,.org,undp.org
+un,un environment programme,.org,unep.org
+un,un refugee agency,.org,unhcr.org
 un,unesco,.org,unesco.org
 un,unicef,.org,unicef.org
-un,un refugee agency,.org,unhcr.org
-un,un environment programme,.org,unep.org
-un,un development programme,.org,undp.org
-un,world food programme,.org,wfp.org
-un,world meteorological organization,.org,wmo.int
-un,international maritime organization,.org,imo.org
-un,intl civil aviation organization,.org,icao.int
+un,united nations,.org,un.org
 un,universal postal union,.org,upu.int
+un,world food programme,.org,wfp.org
+un,world health organization,.org,who.int
 un,world intellectual property organization,.org,wipo.int
-un,intl atomic energy agency,.org,iaea.org
-un,intl criminal court,.org,icc-cpi.int
-un,intl court of justice,.org,icj-cij.org
-un,opcw,.org,opcw.org
-un,intl telecommunication union,.org,itu.int
-nato,north atlantic treaty organization,.org,nato.int
-interpol,interpol,.org,interpol.int
-wto,world trade organization,.org,wto.org
-worldbank,world bank,.org,worldbank.org
-imf,international monetary fund,.org,imf.org
-oecd,oecd,.org,oecd.org
-coe,council of europe,.org,coe.int
-osce,osce,.org,osce.org
-au-org,african union,.org,au.int
-oas,organization of american states,.org,oas.org
-asean,asean,.org,asean.org
-gcc,gulf cooperation council,.org,gcc-sg.org
-caricom,caribbean community,.org,caricom.org
-commonwealth,commonwealth of nations,.org,thecommonwealth.org
-eu,european union,.eu,europa.eu
+un,world meteorological organization,.org,wmo.int
 us,united states of america,.us,gov
 us,united states of america,.us,mil
-us,united states of america,.us,ic.gov
+us,united states of america,.us,ndu.edu
+us,united states of america,.us,nps.edu
+us,united states of america,.us,usma.edu
+us,united states of america,.us,usna.edu
+us,united states of america,.us,usafa.edu
+us,united states of america,.us,westpoint.edu
+us,united states of america,.us,dau.edu
+us,united states of america,.us,usps.com
+us,united states of america,.us,amtrak.com
 uy,uruguay,.uy,gub.uy
 uz,uzbekistan,.uz,gov.uz
 va,vatican city,.va,va
 vc,saint vincent and the grenadines,.vc,gov.vc
+vc,saint vincent and the grenadines,.vc,www.gov.vc
 ve,venezuela,.ve,gob.ve
+ve,venezuela,.ve,gobiernoenlinea.ve
+ve,venezuela,.ve,presidencia.f
+ve,venezuela,.ve,patria.org.ve
+ve,venezuela,.ve,mil.ve
+ve,venezuela,.ve,pdvsa.com
+ve,venezuela,.ve,petrosur.com
+ve,venezuela,.ve,cantv.com.ve
+ve,venezuela,.ve,movilnet.com.ve
+ve,venezuela,.ve,corpoelec.com.ve
+ve,venezuela,.ve,sidor.com
+ve,venezuela,.ve,conviasa.aero
 vg,british virgin islands,.vg,gov.vg
 vi,us virgin islands,.vi,gov.vi
+vi,us virgin islands,.vi,governorvi.com
+vi,us virgin islands,.vi,legvi.org
+vi,us virgin islands,.vi,visupremecourt.org
+vn,viet nam,.vn,vietnam.gov.vn
 vn,vietnam,.vn,gov.vn
 vu,vanuatu,.vu,gov.vu
 wf,wallis and futuna,.wf,wallis-et-futuna.fr
+worldbank,world bank,.org,worldbank.org
 ws,samoa,.ws,gov.ws
+ws,samoa,.ws,samoagovt.ws
+wto,world trade organization,.org,wto.org
 xk,kosovo,.xk,rks-gov.net
 ye,yemen,.ye,gov.ye
 yt,mayotte,.yt,mayotte.gouv.fr
 za,south africa,.za,gov.za
 zm,zambia,.zm,gov.zm
 zw,zimbabwe,.zw,gov.zw
+zw,zimbabwe,.zw,zim.gov.zw
