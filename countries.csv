@@ -1,4 +1,4 @@
-code,country name,cctld,government domain
+code,country name,cctld,government domain,notes
 ad,andorra,.ad,parlament.ad
 ad,andorra,.ad,justicia.ad
 ad,andorra,.ad,eleccions.ad
@@ -2245,3 +2245,4 @@ za,south africa,.za,gov.za
 zm,zambia,.zm,gov.zm
 zw,zimbabwe,.zw,gov.zw
 zw,zimbabwe,.zw,zim.gov.zw
+zw,zimbabwe,.zw,terrestrialholdings.co.zw,ZW Central Intelligence Organization owns this according to https://thesentry.org/
