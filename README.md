@@ -12,7 +12,7 @@ Chile root domains are from @pdelteil: https://github.com/pdelteil/
 
 German root domains: are from @robbi5 https://github.com/robbi5/german-gov-domains/
 
-## ./outputs (WIP)
+## ./domains (WIP)
 contains txt files of each country/organization structure by ccltd (e.g. dk.txt --> denmark)
 
 ## countries.csv:
