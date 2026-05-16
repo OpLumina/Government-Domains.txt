@@ -1,7 +1,7 @@
 # government-domains.txt (WIP)
-A list of government, international, and other government-adjacent domains seperated by ccltd/country
+A list of Approximately 13.5 Million government, international, and other government-adjacent domains/subdomains seperated by ccltd/country/organization
 Includes a heatmap and all domains found so far
-Last Update: 5/12/2026
+Last Update: 5/15/2026
 
 
 
@@ -27,3 +27,4 @@ A python script I used to extract the data from the parquet file using countries
 
 ## Additions and changes:
 * 12 added .gl (Greenland) root domains in countries.csv (5/12/2026)
+* Added ~2000 More Domains to countries.csv and indexed into ./domains
