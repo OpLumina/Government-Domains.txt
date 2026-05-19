@@ -1,18 +1,18 @@
-# government-domains.txt (WIP)
+# government-domains.txt 
 A list of Approximately 13.5 Million government domains from over 220 countries, international organizations, and other government-adjacent domains/subdomains seperated by ccltd/country/organization
 Includes a heatmap and all domains found so far
 Last Update: 5/15/2026
 
 
 
-## Data/Attribution (WIP):
+## Data/Attribution:
 Subdomain Data in `./outputs` is from the Amazing People at thc.org (The Hacker's Choice), and can be found at https://ip.thc.org/docs/bulk-data-access
 
 Chile root domains are from @pdelteil: https://github.com/pdelteil/
 
 German root domains: are from @robbi5 https://github.com/robbi5/german-gov-domains/
 
-## ./domains (WIP)
+## ./domains 
 contains txt files of each country/organization structure by ccltd (e.g. dk.txt --> denmark)
 
 ## countries.csv:
