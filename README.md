@@ -1,5 +1,5 @@
 # government-domains.txt (WIP)
-A list of Approximately 13.5 Million government, international, and other government-adjacent domains/subdomains seperated by ccltd/country/organization
+A list of Approximately 13.5 Million government domains from over 220 countries, international organizations, and other government-adjacent domains/subdomains seperated by ccltd/country/organization
 Includes a heatmap and all domains found so far
 Last Update: 5/15/2026
 
